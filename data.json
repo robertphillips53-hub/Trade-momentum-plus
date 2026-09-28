@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 27, 2026 • 9:25 PM PT",
+  "updated": "Sep 27, 2026 • 9:13 PM PT",
   "items": [
     {
       "ticker": "KOD",
@@ -406,6 +406,14 @@
       "reason": "NYSE announced delisting proceedings; removed from momentum-long candidate set despite recent volume.",
       "history": [
         35
+      ]
+    },
+    {
+      "ticker": "ONEN",
+      "lastComposite": 55,
+      "reason": "Fresh post-SPAC nuclear/AI-power story has explosive thematic potential, but shares collapsed from $10.88 Monday to $2.50 Friday with another -28% Friday session. Severe failed-price-discovery/falling-knife structure keeps Entry too weak for active status.",
+      "history": [
+        55
       ]
     }
   ],
