@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 27, 2026 • 9:13 PM PT",
+  "updated": "Sep 27, 2026 • 9:25 PM PT",
   "items": [
     {
       "ticker": "KOD",
@@ -8,8 +8,8 @@
       "catalyst": 100,
       "momentum": 72,
       "entry": 64,
-      "composite": 84,
-      "change": 0,
+      "composite": 85,
+      "change": 1,
       "trigger": "Post-readout break-and-hold/retest only; establish from Monday price discovery",
       "resistance": "TBD after 8:30 AM ET Phase 3 readout",
       "room": "TBD",
@@ -26,8 +26,12 @@
         76,
         84,
         84,
-        84
-      ]
+        84,
+        85
+      ],
+      "explosiveScore": 84,
+      "explosive": "High",
+      "explosiveReason": "Binary Phase 3 readout can produce a large gap, but ~$2B market cap and post-news price discovery reduce low-float-style explosiveness."
     },
     {
       "ticker": "ACET",
@@ -36,8 +40,8 @@
       "catalyst": 98,
       "momentum": 83,
       "entry": 65,
-      "composite": 83,
-      "change": 0,
+      "composite": 84,
+      "change": 1,
       "trigger": "$9.08 Friday high / post-data hold-retest with volume",
       "resistance": "TBD after clinical-data reaction",
       "room": "TBD",
@@ -50,8 +54,12 @@
       "history": [
         83,
         83,
-        83
-      ]
+        83,
+        84
+      ],
+      "explosiveScore": 90,
+      "explosive": "Extreme",
+      "explosiveReason": "Fresh Phase 1 autoimmune CAR-T data, strong Friday/AH attention and a smaller valuation create genuine binary re-rating potential; clinical failure risk is equally large."
     },
     {
       "ticker": "AIFF",
@@ -60,8 +68,8 @@
       "catalyst": 86,
       "momentum": 95,
       "entry": 62,
-      "composite": 80,
-      "change": -1,
+      "composite": 81,
+      "change": 1,
       "trigger": "$2.12 Friday high; require volume-backed clear/hold or clean retest",
       "resistance": "TBD Monday",
       "room": "TBD",
@@ -78,8 +86,12 @@
         81,
         81,
         81,
-        80
-      ]
+        80,
+        81
+      ],
+      "explosiveScore": 86,
+      "explosive": "High",
+      "explosiveReason": "141M-share Friday turnover, strong RVOL and a fresh commercial catalyst can sustain continuation, though Friday's +69% move increases exhaustion risk."
     },
     {
       "ticker": "GYGY",
@@ -88,8 +100,8 @@
       "catalyst": 84,
       "momentum": 99,
       "entry": 39,
-      "composite": 75,
-      "change": 6,
+      "composite": 77,
+      "change": 2,
       "trigger": "$1.68 Friday/AH session-high reference; only a controlled hold/retest or fresh volume-backed break",
       "resistance": "TBD Monday",
       "room": "TBD",
@@ -103,8 +115,12 @@
       "history": [
         69,
         69,
-        75
-      ]
+        75,
+        77
+      ],
+      "explosiveScore": 98,
+      "explosive": "Extreme",
+      "explosiveReason": "~$10M market cap and ~41M AH shares after a +100% AH move create enormous squeeze/price-discovery potential; 22.2M-share resale overhang makes this exceptionally dangerous."
     },
     {
       "ticker": "INLF",
@@ -113,8 +129,8 @@
       "catalyst": 79,
       "momentum": 98,
       "entry": 44,
-      "composite": 72,
-      "change": 13,
+      "composite": 74,
+      "change": 2,
       "trigger": "$6.85-$6.87 Friday high zone; require clean break/hold",
       "resistance": "TBD Monday",
       "room": "TBD",
@@ -129,8 +145,12 @@
         75,
         76,
         59,
-        72
-      ]
+        72,
+        74
+      ],
+      "explosiveScore": 94,
+      "explosive": "Extreme",
+      "explosiveReason": "Extreme Friday rotation plus termination of a prior $100M ATM can improve supply dynamics; extension and other shelf/supply risks keep it from scoring even higher."
     },
     {
       "ticker": "KITT",
@@ -139,8 +159,8 @@
       "catalyst": 88,
       "momentum": 82,
       "entry": 43,
-      "composite": 71,
-      "change": 0,
+      "composite": 73,
+      "change": 2,
       "trigger": "$3.23-$3.24 Friday high/reclaim zone",
       "resistance": "TBD next live scan",
       "room": "TBD",
@@ -155,31 +175,12 @@
         75,
         71,
         71,
-        71
-      ]
-    },
-    {
-      "ticker": "MIMI",
-      "name": "Mint Incorporation",
-      "status": "AH MOMENTUM / FINANCING-RISK WATCH",
-      "catalyst": 58,
-      "momentum": 91,
-      "entry": 48,
-      "composite": 66,
-      "change": -4,
-      "trigger": "$0.94-$1.00 reclaim/hold with strong volume",
-      "resistance": "TBD Monday",
-      "room": "TBD",
-      "invalidation": "$0.77-$0.80 reference",
-      "state": "testing",
-      "note": "Friday after-hours continuation was strong, but no comparably fresh material catalyst was verified. August financing included 1.4M shares plus pre-funded warrants for 1.1M shares, following a July PIPE, so supply risk is meaningful.",
-      "sources": [
-        "https://www.sec.gov/Archives/edgar/data/1998560/000121390026094900/ea0303716-424b5_mint.htm"
+        71,
+        73
       ],
-      "history": [
-        70,
-        66
-      ]
+      "explosiveScore": 87,
+      "explosive": "High",
+      "explosiveReason": "Small-cap robotics narrative plus a proposed investment up to $50M can attract speculative flows, but the LOI is non-binding and potential dilution is substantial."
     },
     {
       "ticker": "GLND",
@@ -188,8 +189,8 @@
       "catalyst": 72,
       "momentum": 86,
       "entry": 50,
-      "composite": 67,
-      "change": -5,
+      "composite": 69,
+      "change": 2,
       "trigger": "$6.67 Friday high; alternatively controlled higher-low reclaim",
       "resistance": "$6.67 then price discovery",
       "room": "TBD",
@@ -205,8 +206,12 @@
         73,
         68,
         72,
-        67
-      ]
+        67,
+        69
+      ],
+      "explosiveScore": 84,
+      "explosive": "High",
+      "explosiveReason": "Greenland/critical-minerals theme and prior volatility provide substantial continuation potential if $6.67 clears; theme linkage and warrant/pre-funded supply are risks."
     },
     {
       "ticker": "GPUS",
@@ -215,8 +220,8 @@
       "catalyst": 82,
       "momentum": 78,
       "entry": 49,
-      "composite": 67,
-      "change": -1,
+      "composite": 69,
+      "change": 2,
       "trigger": "TBD Monday price/volume confirmation",
       "resistance": "TBD next live scan",
       "room": "TBD",
@@ -229,8 +234,39 @@
       "history": [
         68,
         68,
-        67
-      ]
+        67,
+        69
+      ],
+      "explosiveScore": 82,
+      "explosive": "High",
+      "explosiveReason": "AI data-center theme, heavy volume and financing headline can support a sharp move, but convertible/preferred structure limits clean asymmetry."
+    },
+    {
+      "ticker": "MIMI",
+      "name": "Mint Incorporation",
+      "status": "AH MOMENTUM / FINANCING-RISK WATCH",
+      "catalyst": 58,
+      "momentum": 91,
+      "entry": 48,
+      "composite": 68,
+      "change": 2,
+      "trigger": "$0.94-$1.00 reclaim/hold with strong volume",
+      "resistance": "TBD Monday",
+      "room": "TBD",
+      "invalidation": "$0.77-$0.80 reference",
+      "state": "testing",
+      "note": "Friday after-hours continuation was strong, but no comparably fresh material catalyst was verified. August financing included 1.4M shares plus pre-funded warrants for 1.1M shares, following a July PIPE, so supply risk is meaningful.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1998560/000121390026094900/ea0303716-424b5_mint.htm"
+      ],
+      "history": [
+        70,
+        66,
+        68
+      ],
+      "explosiveScore": 89,
+      "explosive": "High",
+      "explosiveReason": "Sub-$1 price, strong AH momentum and small capitalization create large percentage-move potential, offset by weak fresh catalyst quality and recent financing supply."
     },
     {
       "ticker": "CLRO",
@@ -239,8 +275,8 @@
       "catalyst": 40,
       "momentum": 94,
       "entry": 30,
-      "composite": 58,
-      "change": null,
+      "composite": 61,
+      "change": 3,
       "trigger": "$5.10 AH high reference; no chase without base/retest",
       "resistance": "TBD Monday",
       "room": "TBD",
@@ -251,8 +287,12 @@
         "https://www.sec.gov/Archives/edgar/data/840715/000175392626001724/MainDocument.htm"
       ],
       "history": [
-        58
-      ]
+        58,
+        61
+      ],
+      "explosiveScore": 91,
+      "explosive": "Extreme",
+      "explosiveReason": "Very small reported float plus +43% AH move can produce violent percentage swings, but weak catalyst quality and a potentially huge unit/warrant offering make this low-quality explosiveness."
     }
   ],
   "archive": [
@@ -368,5 +408,9 @@
         35
       ]
     }
-  ]
+  ],
+  "methodology": {
+    "explosiveWeight": "~10% of Composite",
+    "explosiveDefinition": "Rewards credible asymmetric upside from overhead room, effective float, rotation/RVOL, catalyst attraction, squeeze/price-discovery potential and risk-to-upside. Penalizes capped upside, exhaustion, dilution/supply, poor liquidity and pump-like structure. Does not override catalyst quality, confirmation or risk controls."
+  }
 }
