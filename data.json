@@ -1,24 +1,23 @@
 {
-  "updated": "Sep 28, 2026 • 12:01 AM PT",
+  "updated": "Sep 28, 2026 • 5:50 AM PT",
   "items": [
     {
       "ticker": "KOD",
       "name": "Kodiak Sciences",
-      "status": "TOP MONDAY BINARY CATALYST",
+      "status": "PHASE 3 DATA LEADER / EXTENDED",
       "catalyst": 100,
-      "momentum": 72,
-      "entry": 64,
-      "composite": 85,
-      "change": 0,
-      "trigger": "Post-readout break-and-hold/retest only; establish from Monday price discovery",
-      "resistance": "TBD after 8:30 AM ET Phase 3 readout",
+      "momentum": 99,
+      "entry": 43,
+      "composite": 84,
+      "change": -1,
+      "trigger": "Do not chase initial gap; require a new base/reclaim or a clean break-and-hold after price discovery",
+      "resistance": "Premarket high / post-webcast level TBD next live check",
       "room": "TBD",
-      "invalidation": "Post-news support/VWAP failure; exact level TBD Monday",
-      "state": "unconfirmed",
-      "note": "Fresh 10 PM verification confirms DAYBREAK pivotal Phase 3 topline results Monday Sep 28 with webcast at 8:30 AM ET. Highest-impact scheduled catalyst in this scan; binary clinical risk is extreme and the first spike should not be chased.",
+      "invalidation": "Post-news base/VWAP failure; exact level TBD",
+      "state": "testing",
+      "note": "DAYBREAK pivotal Phase 3 topline results are the highest-quality verified catalyst in the field, but the very large premarket repricing sharply reduces entry quality until a new structure forms.",
       "sources": [
-        "https://ir.kodiak.com/news-releases/news-release-details/kodiak-sciences-present-topline-results-september-28-2026/",
-        "https://ir.kodiak.com/events/event-details/daybreak-topline-results-webcast"
+        "https://ir.kodiak.com/news-releases/news-release-details/kodiak-sciences-present-topline-results-september-28-2026/"
       ],
       "history": [
         72,
@@ -30,30 +29,72 @@
         84,
         85,
         85,
-        85
+        85,
+        84
+      ]
+    },
+    {
+      "ticker": "AMPX",
+      "name": "Amprius Technologies",
+      "status": "$75M GOVERNMENT GRANT / STRUCTURE WATCH",
+      "catalyst": 96,
+      "momentum": 86,
+      "entry": 67,
+      "composite": 84,
+      "change": null,
+      "trigger": "Prefer controlled pullback/reclaim or volume-backed breakout; exact level TBD next live scan",
+      "resistance": "TBD",
+      "room": "TBD",
+      "invalidation": "TBD next live scan",
+      "state": "testing",
+      "note": "Fresh award of up to $75M to retrofit domestic high-energy-density battery production for unmanned aerial systems is a material government-backed catalyst. Entry remains confirmation-dependent.",
+      "sources": [
+        "https://fox47.marketminute.com/quote/NY%3AAMPX/pressReleases"
       ],
-      "explosiveScore": 84,
-      "explosive": "High",
-      "explosiveReason": "Binary Phase 3 readout can produce a large gap, but ~$2B market cap and post-news price discovery reduce low-float-style explosiveness."
+      "history": [
+        84
+      ]
+    },
+    {
+      "ticker": "ARAY",
+      "name": "Accuray",
+      "status": "FRESH SAMSUNG COLLABORATION / EXTREME ROTATION",
+      "catalyst": 84,
+      "momentum": 100,
+      "entry": 61,
+      "composite": 83,
+      "change": null,
+      "trigger": "Require consolidation/reclaim or a volume-backed break after the current premarket spike; no blind chase",
+      "resistance": "TBD next live scan",
+      "room": "TBD",
+      "invalidation": "TBD after first stable base",
+      "state": "testing",
+      "note": "Fresh Sep 27 Accuray/Samsung NeuroLogica CyberKnife volumetric-imaging collaboration is verified. Premarket volume exceeded 100M shares versus roughly 1.2M average volume. Catalyst is real but no commercial product has yet been announced, so the move is materially ahead of presently disclosed economics.",
+      "sources": [
+        "https://accuray.gcs-web.com/news-releases/news-release-details/accuray-and-samsung-neurologica-advance-volumetric-imaging",
+        "https://www.benzinga.com/trading-ideas/movers/26/09/62018641/why-is-accuray-stock-gaining-monday"
+      ],
+      "history": [
+        83
+      ]
     },
     {
       "ticker": "ACET",
       "name": "Adicet Bio",
-      "status": "TOP MONDAY BINARY / CLINICAL DATA",
-      "catalyst": 98,
-      "momentum": 83,
-      "entry": 65,
-      "composite": 84,
-      "change": 0,
-      "trigger": "$9.08 Friday high / post-data hold-retest with volume",
-      "resistance": "TBD after clinical-data reaction",
+      "status": "CLINICAL DATA / THIN PREMARKET LIQUIDITY",
+      "catalyst": 97,
+      "momentum": 78,
+      "entry": 57,
+      "composite": 79,
+      "change": -5,
+      "trigger": "Confirmed break/hold above established premarket resistance; exact trigger TBD next live scan",
+      "resistance": "TBD",
       "room": "TBD",
-      "invalidation": "$8.44 Friday low reference; reset after data",
-      "state": "testing",
-      "note": "Fresh 10 PM verification confirms Phase 1 prula-cel lupus/lupus-nephritis clinical data Monday Sep 28 followed by an 8:00 AM ET webcast. Active ATM capacity and clinical binary risk remain counter-catalysts.",
+      "invalidation": "TBD next live scan",
+      "state": "unconfirmed",
+      "note": "Prula-cel autoimmune clinical data remains a high-quality catalyst, but current premarket volume is far thinner than the leading momentum names, reducing execution confidence.",
       "sources": [
-        "https://investor.adicetbio.com/news-releases/news-release-details/adicet-bio-host-webcast-present-prula-cel-formerly-adi-001",
-        "https://investor.adicetbio.com/events-and-presentations/events"
+        "https://investor.adicetbio.com/"
       ],
       "history": [
         83,
@@ -61,64 +102,50 @@
         83,
         84,
         84,
-        84
-      ],
-      "explosiveScore": 90,
-      "explosive": "Extreme",
-      "explosiveReason": "Fresh Phase 1 autoimmune CAR-T data, strong Friday/AH attention and a smaller valuation create genuine binary re-rating potential; clinical failure risk is equally large."
+        84,
+        79
+      ]
     },
     {
-      "ticker": "AIFF",
-      "name": "Firefly Neuroscience",
-      "status": "HIGH-PRIORITY CATALYST + LIQUIDITY WATCH",
-      "catalyst": 86,
-      "momentum": 95,
-      "entry": 62,
-      "composite": 81,
-      "change": 0,
-      "trigger": "$2.12 Friday high; require volume-backed clear/hold or clean retest",
-      "resistance": "TBD Monday",
+      "ticker": "WBUY",
+      "name": "Webuy Global",
+      "status": "H1 FUNDAMENTAL IMPROVEMENT / MICROCAP MOMENTUM",
+      "catalyst": 78,
+      "momentum": 94,
+      "entry": 58,
+      "composite": 78,
+      "change": null,
+      "trigger": "Require hold/reclaim after premarket consolidation; exact trigger TBD next scan",
+      "resistance": "TBD",
       "room": "TBD",
-      "invalidation": "$1.95-$2.00 initial reference",
-      "state": "unconfirmed",
-      "note": "Sep 25 NeuroSigma partnership is verified and Friday volume was exceptional. Entry is penalized for extension and an existing ATM/shelf financing overhang.",
+      "invalidation": "TBD next live scan",
+      "state": "testing",
+      "note": "H1 continuing-operations revenue rose to $14.31M from $7.36M and net loss narrowed to $3.32M from $7.69M. Premarket volume is very large relative to the company's size, but execution risk remains high.",
       "sources": [
-        "https://www.globenewswire.com/news-release/2026/09/25/3369065/0/en/firefly-nasdaq-aiff-and-neurosigma-partner-to-expand-access-to-first-fda-cleared-non-drug-treatment-for-pediatric-adhd.html"
+        "https://www.benzinga.com/trading-ideas/movers/26/09/62015117/why-webuy-global-shares-are-trading-higher-by-around-15-here-are-20-stocks-moving-premarket"
       ],
       "history": [
-        80,
-        79,
-        79,
-        81,
-        81,
-        81,
-        80,
-        81,
-        81,
-        81
-      ],
-      "explosiveScore": 86,
-      "explosive": "High",
-      "explosiveReason": "141M-share Friday turnover, strong RVOL and a fresh commercial catalyst can sustain continuation, though Friday's +69% move increases exhaustion risk."
+        78
+      ]
     },
     {
       "ticker": "GYGY",
       "name": "Game Your Game",
-      "status": "EXTREME AH MOMENTUM / MAJOR SUPPLY RISK",
-      "catalyst": 84,
-      "momentum": 99,
-      "entry": 39,
-      "composite": 77,
-      "change": 0,
-      "trigger": "$1.68 Friday/AH session-high reference; only a controlled hold/retest or fresh volume-backed break",
-      "resistance": "TBD Monday",
+      "status": "EXTREME MOMENTUM / MAJOR RESALE-SUPPLY RISK",
+      "catalyst": 65,
+      "momentum": 100,
+      "entry": 28,
+      "composite": 67,
+      "change": -10,
+      "trigger": "No chase; only controlled base/retest with sustained liquidity",
+      "resistance": "TBD",
       "room": "TBD",
-      "invalidation": "TBD after Monday price discovery",
+      "invalidation": "TBD after base",
       "state": "testing",
-      "note": "Friday after-hours move was about +100% on ~41M shares and ~72x relative volume. Major counter-catalyst: resale registrations cover up to 22.2M convertible-preferred-linked shares plus a separate 16.1M-share resale registration. Halt/whipsaw/pump-like behavior risk is high; do not chase.",
+      "note": "GYGY independently re-emerged near the top of premarket gainers with ~13M+ shares traded, but fresh operating catalyst quality remains weaker than ARAY/KOD/AMPX and prior large resale registrations remain a major counter-catalyst.",
       "sources": [
-        "https://www.sec.gov/Archives/edgar/data/2111846/000121390026102399/ea030633202-424b3_game.htm",
-        "https://www.sec.gov/Archives/edgar/data/2111846/000121390026102400/ea030633203-424b3_game.htm"
+        "https://stockanalysis.com/markets/premarket/gainers/",
+        "https://www.sec.gov/Archives/edgar/data/2111846/000121390026102399/ea030633202-424b3_game.htm"
       ],
       "history": [
         69,
@@ -126,127 +153,27 @@
         75,
         77,
         77,
-        77
-      ],
-      "explosiveScore": 98,
-      "explosive": "Extreme",
-      "explosiveReason": "~$10M market cap and ~41M AH shares after a +100% AH move create enormous squeeze/price-discovery potential; 22.2M-share resale overhang makes this exceptionally dangerous."
-    },
-    {
-      "ticker": "INLF",
-      "name": "INLIF Limited",
-      "status": "SUPPLY-POSITIVE FILING + EXTREME MOMENTUM",
-      "catalyst": 79,
-      "momentum": 98,
-      "entry": 44,
-      "composite": 74,
-      "change": 0,
-      "trigger": "$6.85-$6.87 Friday high zone; require clean break/hold",
-      "resistance": "TBD Monday",
-      "room": "TBD",
-      "invalidation": "$4.57-$4.59 initial reference",
-      "state": "unconfirmed",
-      "note": "Fresh SEC review found a material supply-positive item missed in earlier scoring: INLIF terminated its prior ATM sales agreement that had allowed up to $100M of stock sales. Friday momentum was extreme, but extension and shelf-registration risk keep Entry constrained.",
-      "sources": [
-        "https://www.sec.gov/Archives/edgar/data/1991592/000121390026103139/ea0306361-6k_inlif.htm"
-      ],
-      "history": [
-        76,
-        75,
-        76,
-        59,
-        72,
-        74,
-        74,
-        74
-      ],
-      "explosiveScore": 94,
-      "explosive": "Extreme",
-      "explosiveReason": "Extreme Friday rotation plus termination of a prior $100M ATM can improve supply dynamics; extension and other shelf/supply risks keep it from scoring even higher."
-    },
-    {
-      "ticker": "KITT",
-      "name": "Nauticus Robotics",
-      "status": "STRATEGIC-FUNDING CATALYST / HIGH DILUTION RISK",
-      "catalyst": 88,
-      "momentum": 82,
-      "entry": 41,
-      "composite": 72,
-      "change": -1,
-      "trigger": "$3.23-$3.24 Friday high/reclaim zone",
-      "resistance": "TBD next live scan",
-      "room": "TBD",
-      "invalidation": "$2.18-$2.20 Friday low/reference",
-      "state": "unconfirmed",
-      "note": "Fresh re-verification: Sep 25 company release/SEC exhibit confirms non-binding LOI for up to $50M strategic private-placement equity. Counter-catalysts are unusually important: no funding commitment, possible dilution/change of control, and a 1-for-6 reverse split became effective Sep 25. Entry reduced until post-split supply/price action confirms.",
-      "sources": [
-        "https://ir.nauticusrobotics.com/news-events/press-releases/detail/128/nauticus-robotics-inc-signs-non-binding-letter-of-intent",
-        "https://www.sec.gov/Archives/edgar/data/1849820/000184982026000150/pressrelease.htm",
-        "https://www.sec.gov/Archives/edgar/data/1849820/000184982026000142/pressrelease-final.htm"
-      ],
-      "history": [
-        76,
-        75,
-        71,
-        71,
-        71,
-        73,
-        73,
-        72
-      ],
-      "explosiveScore": 87,
-      "explosive": "High",
-      "explosiveReason": "Small-cap robotics narrative plus a proposed investment up to $50M can attract speculative flows, but the LOI is non-binding and potential dilution is substantial."
-    },
-    {
-      "ticker": "GLND",
-      "name": "Greenland Energy",
-      "status": "THEME / CORPORATE-CATALYST WATCH WITH SUPPLY RISK",
-      "catalyst": 72,
-      "momentum": 86,
-      "entry": 50,
-      "composite": 69,
-      "change": 0,
-      "trigger": "$6.67 Friday high; alternatively controlled higher-low reclaim",
-      "resistance": "$6.67 then price discovery",
-      "room": "TBD",
-      "invalidation": "$4.83 Friday low / loss of momentum structure",
-      "state": "testing",
-      "note": "Critical-minerals/Greenland theme remains active and the Jameson Land farm-out extension is recent. Sep 23 SEC filing includes a securities purchase agreement and pre-funded warrant, increasing supply-risk weighting.",
-      "sources": [
-        "https://www.prnewswire.com/news/greenland-energy-company/"
-      ],
-      "history": [
-        71,
-        70,
-        73,
-        68,
-        72,
-        67,
-        69,
-        69,
-        69
-      ],
-      "explosiveScore": 84,
-      "explosive": "High",
-      "explosiveReason": "Greenland/critical-minerals theme and prior volatility provide substantial continuation potential if $6.67 clears; theme linkage and warrant/pre-funded supply are risks."
+        77,
+        67
+      ]
     },
     {
       "ticker": "MIMI",
       "name": "Mint Incorporation",
-      "status": "AH MOMENTUM / FINANCING-RISK WATCH",
-      "catalyst": 58,
-      "momentum": 91,
-      "entry": 48,
-      "composite": 68,
-      "change": 0,
-      "trigger": "$0.94-$1.00 reclaim/hold with strong volume",
-      "resistance": "TBD Monday",
+      "status": "MOMENTUM / FINANCING-RISK WATCH",
+      "catalyst": 55,
+      "momentum": 93,
+      "entry": 44,
+      "composite": 65,
+      "change": -3,
+      "trigger": "Reclaim/hold with volume; no chase",
+      "resistance": "TBD",
       "room": "TBD",
-      "invalidation": "$0.77-$0.80 reference",
+      "invalidation": "TBD next live scan",
       "state": "testing",
-      "note": "Friday after-hours continuation was strong, but no comparably fresh material catalyst was verified. August financing included 1.4M shares plus pre-funded warrants for 1.1M shares, following a July PIPE, so supply risk is meaningful.",
+      "note": "MIMI independently re-emerged on heavy premarket volume, but fresh catalyst quality remains modest and prior share/pre-funded-warrant financing keeps supply risk elevated.",
       "sources": [
+        "https://stockanalysis.com/markets/premarket/",
         "https://www.sec.gov/Archives/edgar/data/1998560/000121390026094900/ea0303716-424b5_mint.htm"
       ],
       "history": [
@@ -254,69 +181,80 @@
         66,
         68,
         68,
-        68
-      ],
-      "explosiveScore": 89,
-      "explosive": "High",
-      "explosiveReason": "Sub-$1 price, strong AH momentum and small capitalization create large percentage-move potential, offset by weak fresh catalyst quality and recent financing supply."
+        68,
+        65
+      ]
     },
     {
-      "ticker": "GPUS",
-      "name": "Hyperscale Data",
-      "status": "AI DATA-CENTER CATALYST / CONVERTIBLE RISK",
-      "catalyst": 78,
-      "momentum": 78,
-      "entry": 47,
-      "composite": 67,
-      "change": -2,
-      "trigger": "TBD Monday price/volume confirmation",
-      "resistance": "TBD next live scan",
+      "ticker": "SDEV",
+      "name": "Stablecoin Development",
+      "status": "CRYPTO/STABLECOIN MOMENTUM WATCH",
+      "catalyst": 58,
+      "momentum": 88,
+      "entry": 48,
+      "composite": 65,
+      "change": null,
+      "trigger": "Require a clean base/reclaim with sustained volume",
+      "resistance": "TBD",
       "room": "TBD",
       "invalidation": "TBD next live scan",
-      "state": "unconfirmed",
-      "note": "AI-data-center transition remains real, including a previously announced 20 MW customer deployment expected to begin in November. At this weekend checkpoint there is no equally strong fresh weekend catalyst; financing/convertible structure and very low price keep risk elevated.",
+      "state": "testing",
+      "note": "SDEV independently emerged on the live premarket mover list with multi-million-share volume. Catalyst verification is not strong enough yet to justify a high Catalyst score; treat as momentum-led until a material source is confirmed.",
       "sources": [
-        "https://www.stocktitan.net/news/GPUS/"
+        "https://stockanalysis.com/markets/premarket/"
       ],
       "history": [
-        68,
-        68,
-        67,
-        69,
-        69,
-        67
-      ],
-      "explosiveScore": 82,
-      "explosive": "High",
-      "explosiveReason": "AI data-center theme, heavy volume and financing headline can support a sharp move, but convertible/preferred structure limits clean asymmetry."
+        65
+      ]
     },
     {
       "ticker": "CLRO",
       "name": "ClearOne",
-      "status": "LOW-FLOAT AH SQUEEZE / OFFERING RISK",
-      "catalyst": 40,
-      "momentum": 94,
-      "entry": 30,
-      "composite": 61,
-      "change": 0,
-      "trigger": "$5.10 AH high reference; no chase without base/retest",
-      "resistance": "TBD Monday",
+      "status": "LOW-FLOAT SQUEEZE / OFFERING-WARRANT RISK",
+      "catalyst": 42,
+      "momentum": 99,
+      "entry": 25,
+      "composite": 57,
+      "change": -4,
+      "trigger": "No chase; require a stable base and executable spread",
+      "resistance": "TBD",
       "room": "TBD",
-      "invalidation": "TBD after Monday price discovery",
+      "invalidation": "TBD after base",
       "state": "testing",
-      "note": "Friday AH gained ~43% on ~1M shares with sub-1M reported float, but no strong fresh operating catalyst was verified. A September preliminary offering contemplates 2.86M-4.29M units at $3.50 with warrants, a severe supply/dilution counterweight.",
+      "note": "CLRO independently re-emerged as an extreme premarket gainer on multi-million-share volume, but no comparably strong fresh operating catalyst was verified and the September unit/warrant offering remains a severe supply risk.",
       "sources": [
+        "https://stockanalysis.com/markets/premarket/gainers/",
         "https://www.sec.gov/Archives/edgar/data/840715/000175392626001724/MainDocument.htm"
       ],
       "history": [
         58,
         61,
         61,
-        61
+        61,
+        57
+      ]
+    },
+    {
+      "ticker": "ONCO",
+      "name": "Onconetix",
+      "status": "MOMENTUM / EXTREME DILUTION RISK",
+      "catalyst": 40,
+      "momentum": 89,
+      "entry": 24,
+      "composite": 52,
+      "change": null,
+      "trigger": "No trade without exceptional confirmation",
+      "resistance": "TBD",
+      "room": "TBD",
+      "invalidation": "TBD next live scan",
+      "state": "testing",
+      "note": "ONCO re-emerged on premarket volume, but previously identified resale/dilution capacity remains too large relative to the company's capitalization for a high-quality long setup.",
+      "sources": [
+        "https://stockanalysis.com/markets/premarket/"
       ],
-      "explosiveScore": 91,
-      "explosive": "Extreme",
-      "explosiveReason": "Very small reported float plus +43% AH move can produce violent percentage swings, but weak catalyst quality and a potentially huge unit/warrant offering make this low-quality explosiveness."
+      "history": [
+        52
+      ]
     }
   ],
   "archive": [
@@ -446,16 +384,13 @@
     "explosiveDefinition": "Rewards credible asymmetric upside from overhead room, effective float, rotation/RVOL, catalyst attraction, squeeze/price-discovery potential and risk-to-upside. Penalizes capped upside, exhaustion, dilution/supply, poor liquidity and pump-like structure. Does not override catalyst quality, confirmation or risk controls."
   },
   "scanNotes": {
-    "marketState": "Weekend / U.S. cash market closed; Monday catalyst preparation.",
-    "discovery": "Independent clean-slate full-market scan completed before dashboard history was fetched. Discovery covered broad movers/unusual volume, Friday/AH tape, weekend and scheduled Monday catalysts, SEC/financing/reverse-split risk, clinical/FDA events, M&A/partnerships, AI/data-center, nuclear, Greenland/critical-minerals and second-order sympathy paths.",
-    "materialChange": "No new small-cap/penny candidate displaced the established top five. ACET (8:00 AM ET Phase 1 prula-cel data) and KOD (8:30 AM ET pivotal Phase 3 DAYBREAK topline) remain the highest-quality scheduled Monday binary events. KITT is downgraded one point because fresh counter-catalyst review emphasizes its just-effective 1-for-6 reverse split on top of non-binding/dilutive financing risk. NNE has fresh nuclear-powered AI infrastructure LOI news but is outside the penny/small-cap sweet spot and the LOI is preliminary.",
+    "marketState": "Live premarket clean-slate scan.",
+    "discovery": "Fresh market-wide discovery performed before reading dashboard history. Used live premarket gainers/volume plus catalyst verification and counter-catalyst review. Previously discussed tickers were retained only when they independently re-emerged or had a fresh verified scheduled catalyst.",
+    "materialChange": "ARAY is the largest new actionable discovery: a verified Samsung NeuroLogica collaboration paired with >100M premarket shares. KOD remains the highest catalyst-quality name but Entry Quality is deliberately penalized for the post-Phase-3 gap/extension. GYGY and CLRO score high on momentum but remain low-quality entries because catalyst/supply structure is weaker.",
     "newlyReviewed": [
-      "NNE — fresh NANO Nuclear/IP3/Cybernetic Intelligence nuclear-powered AI infrastructure LOI; strong theme signal/sympathy input, but preliminary LOI and outside core penny/small-cap target.",
-      "QNCX — Sep 28 KOL event on LAM-001 at 12:30 PM ET; informational/KOL catalyst rather than new efficacy data, so insufficient for active ranking.",
-      "CAMP — Sep 28 analyst day on CMP-002/SYNGAP1; scheduled attention catalyst but no verified binary readout, insufficient to displace active field.",
-      "ONMD — 1-for-10 reverse split effective Sep 29; compliance-driven corporate action, not a quality long catalyst.",
-      "CDT — 1-for-25 reverse split effective Sep 28 after close / split-adjusted Sep 29; post-split float may become small but reverse-split/compliance and warrant/convertible risk keep it off active list.",
-      "Multiple Sep 28 reverse-split names (including MTNB, CTNT, DCX, FBGL) reviewed as potential low-float movers; corporate-action volatility alone did not meet catalyst-quality threshold."
+      "ARAY — verified Samsung NeuroLogica CyberKnife imaging collaboration; extreme premarket rotation; no commercial product announced yet.",
+      "WBUY — H1 revenue nearly doubled and net loss narrowed; strong microcap volume.",
+      "SDEV — independently emerged on live mover list; catalyst remains insufficiently verified, so momentum-led only."
     ]
   }
 }
