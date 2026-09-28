@@ -1,352 +1,242 @@
 {
-  "updated": "Sep 28, 2026 • methodology saved",
+  "updated": "Sep 28, 2026 • fresh clean-slate event-repricing scan",
   "items": [
-    {
-      "ticker": "KOD",
-      "name": "Kodiak Sciences",
-      "status": "PHASE 3 DATA LEADER / EXTENDED",
-      "catalyst": 100,
-      "momentum": 99,
-      "entry": 43,
-      "composite": 84,
-      "change": -1,
-      "trigger": "Do not chase initial gap; require a new base/reclaim or a clean break-and-hold after price discovery",
-      "resistance": "Premarket high / post-webcast level TBD next live check",
-      "room": "TBD",
-      "invalidation": "Post-news base/VWAP failure; exact level TBD",
-      "state": "testing",
-      "note": "DAYBREAK pivotal Phase 3 topline results are the highest-quality verified catalyst in the field, but the very large premarket repricing sharply reduces entry quality until a new structure forms.",
-      "sources": [
-        "https://ir.kodiak.com/news-releases/news-release-details/kodiak-sciences-present-topline-results-september-28-2026/"
-      ],
-      "history": [
-        72,
-        72,
-        72,
-        76,
-        84,
-        84,
-        84,
-        85,
-        85,
-        85,
-        84
-      ]
-    },
-    {
-      "ticker": "AMPX",
-      "name": "Amprius Technologies",
-      "status": "$75M GOVERNMENT GRANT / STRUCTURE WATCH",
-      "catalyst": 96,
-      "momentum": 86,
-      "entry": 67,
-      "composite": 84,
-      "change": null,
-      "trigger": "Prefer controlled pullback/reclaim or volume-backed breakout; exact level TBD next live scan",
-      "resistance": "TBD",
-      "room": "TBD",
-      "invalidation": "TBD next live scan",
-      "state": "testing",
-      "note": "Fresh award of up to $75M to retrofit domestic high-energy-density battery production for unmanned aerial systems is a material government-backed catalyst. Entry remains confirmation-dependent.",
-      "sources": [
-        "https://fox47.marketminute.com/quote/NY%3AAMPX/pressReleases"
-      ],
-      "history": [
-        84
-      ]
-    },
-    {
-      "ticker": "ARAY",
-      "name": "Accuray",
-      "status": "FRESH SAMSUNG COLLABORATION / EXTREME ROTATION",
-      "catalyst": 84,
-      "momentum": 100,
-      "entry": 61,
-      "composite": 83,
-      "change": null,
-      "trigger": "Require consolidation/reclaim or a volume-backed break after the current premarket spike; no blind chase",
-      "resistance": "TBD next live scan",
-      "room": "TBD",
-      "invalidation": "TBD after first stable base",
-      "state": "testing",
-      "note": "Fresh Sep 27 Accuray/Samsung NeuroLogica CyberKnife volumetric-imaging collaboration is verified. Premarket volume exceeded 100M shares versus roughly 1.2M average volume. Catalyst is real but no commercial product has yet been announced, so the move is materially ahead of presently disclosed economics.",
-      "sources": [
-        "https://accuray.gcs-web.com/news-releases/news-release-details/accuray-and-samsung-neurologica-advance-volumetric-imaging",
-        "https://www.benzinga.com/trading-ideas/movers/26/09/62018641/why-is-accuray-stock-gaining-monday"
-      ],
-      "history": [
-        83
-      ]
-    },
     {
       "ticker": "QTTB",
       "name": "Q32 Bio",
-      "status": "PRE-CATALYST LEADER / WED 1:00 AM ET POSTER + 9:15 AM ET ORAL",
-      "catalyst": 92,
-      "momentum": 64,
-      "entry": 82,
-      "composite": 82,
-      "change": null,
-      "trigger": "PRE-CATALYST: investigate starter entry before Wednesday; prefer no chase after sharp intraday extension",
-      "resistance": "Recent $9.20-$9.60 area, then ~$10.50 prior trading zone",
-      "room": "High if durability data materially strengthens Phase 3 case",
-      "invalidation": "Thesis weakens materially if off-treatment durability disappoints or new safety signal emerges",
+      "status": "PRE-CATALYST LEADER • EADV SEP 30",
+      "catalyst": 94,
+      "momentum": 67,
+      "entry": 84,
+      "composite": 88,
+      "explosiveScore": 91,
+      "evidenceConfidence": 82,
+      "repricingPotential": 91,
+      "preCatalystScore": 88,
+      "postCatalystScore": 86,
+      "decisionState": "PRE-CATALYST ENTRY CANDIDATE / THESIS ACTIVE",
+      "trigger": "Pre-event: favor controlled structure rather than a vertical chase; post-event: require strong durability + volume confirmation",
+      "resistance": "~$10.50-$11 recent overhead zone",
+      "room": "High if Week-52 off-drug durability is broad and clinically meaningful",
+      "invalidation": "Material durability fade, unexpected safety issue, event delay, or structure breakdown",
       "state": "pre-catalyst",
-      "note": "Confirmed EADV Sep 30 presentations add 36-week detail plus initial 16-week off-drug durability. Prior 36-week Phase 2a results were positive; presentation title explicitly says hair regrowth persists off treatment. Small ~$250M recent market cap increases repricing potential. Major 2026 financing improves runway, but a $75M ATM authorization remains a supply-risk flag.",
+      "note": "Fresh scan independently rediscovered QTTB. Week-36 efficacy is already positive and initial off-drug durability signs were disclosed; Sep 30 adds the first fuller 16-week off-drug picture. Small ~$261M market cap and ~19.3% short float create strong repricing potential, but open-label N=33 limits confidence versus pivotal randomized data.",
       "sources": [
-        "https://ir.q32bio.com/news-releases/news-release-details/q32-bio-announces-upcoming-late-breaking-presentation-results",
-        "https://www.sec.gov/Archives/edgar/data/1661998/000119312526333831/qttb-20260630.htm"
+        "https://q32bio.gcs-web.com/news-releases/news-release-details/q32-bio-announces-upcoming-late-breaking-presentation-results",
+        "https://ir.q32bio.com/news-releases/news-release-details/q32-bio-announces-positive-36-week-topline-results-part-b-signal"
       ],
       "history": [
-        82
+        88
       ],
       "preCatalyst": {
         "date": "2026-09-30",
         "time": "1:00 AM ET poster; 9:15 AM ET oral",
-        "type": "Phase 2a additional efficacy + initial off-drug durability",
-        "evidenceFor": "Positive 36-week topline; 40% SALT-20 in mITT; company says initial durability signals; presentation title says hair regrowth persists off treatment; Phase 3 planning and strong post-financing runway.",
-        "evidenceAgainst": "Open-label Part B; small N; prior topline already known, so incremental data may be partly priced; substantial 2026 issuance and remaining ATM capacity.",
-        "rating": "GO-RESEARCH / closest current KOD-like setup"
+        "type": "Phase 2a additional efficacy + initial 16-week off-drug durability",
+        "evidenceFor": "35.3% mean SALT reduction in prespecified mITT; 40% mITT SALT-20; no new safety signal; early off-drug maintenance/deepening already observed; presentation specifically focuses on persistence off treatment.",
+        "evidenceAgainst": "Open-label, only 33 enrolled; mITT excludes some enrolled patients; headline Week-36 efficacy is already public.",
+        "evidenceConfidence": 82,
+        "rating": "PRE-CATALYST LEADER"
       }
     },
     {
-      "ticker": "ACET",
-      "name": "Adicet Bio",
-      "status": "CLINICAL DATA / THIN PREMARKET LIQUIDITY",
-      "catalyst": 97,
-      "momentum": 78,
-      "entry": 57,
-      "composite": 79,
-      "change": -5,
-      "trigger": "Confirmed break/hold above established premarket resistance; exact trigger TBD next live scan",
-      "resistance": "TBD",
-      "room": "TBD",
-      "invalidation": "TBD next live scan",
-      "state": "unconfirmed",
-      "note": "Prula-cel autoimmune clinical data remains a high-quality catalyst, but current premarket volume is far thinner than the leading momentum names, reducing execution confidence.",
+      "ticker": "CAPR",
+      "name": "Capricor Therapeutics",
+      "status": "HIGH-EVIDENCE CATALYST • WMS SEP 29-OCT 3",
+      "catalyst": 91,
+      "momentum": 55,
+      "entry": 77,
+      "composite": 84,
+      "explosiveScore": 82,
+      "evidenceConfidence": 93,
+      "repricingPotential": 82,
+      "preCatalystScore": 84,
+      "postCatalystScore": 80,
+      "decisionState": "PRE-CATALYST RESEARCH / HIGH CONFIDENCE, INCREMENTAL NOVELTY",
+      "trigger": "Watch WMS 24-month delayed-start/OLE release; strongest upside requires durable extension of already-positive Phase 3 story",
+      "resistance": "Recent ~$9.3-$9.8 zone",
+      "room": "Moderate-high; ~$488M market cap, but core 12-month Phase 3 success is already known",
+      "invalidation": "24-month trajectory materially diverges from randomized Phase 3 benefit or new safety concern",
+      "state": "pre-catalyst",
+      "note": "Fresh scan independently rediscovered CAPR. Evidence confidence is highest in the group: randomized double-blind Phase 3 met primary endpoint and key cardiac endpoint and was peer-reviewed. Upcoming 24-month/OLE analyses can strengthen durability/BLA narrative, but are less novel than a new pivotal topline readout.",
       "sources": [
-        "https://investor.adicetbio.com/"
+        "https://www.capricor.com/investors/news-events/press-releases/detail/350/the-lancet-publishes-hope-3-data-for-capricor",
+        "https://www.capricor.com/investors/news-events/ir-calendar/detail/20260929-31st-annual-congress-of-the-world-muscle-society-wms-2026"
       ],
       "history": [
-        83,
-        83,
-        83,
-        84,
-        84,
-        84,
-        79
-      ]
+        84
+      ],
+      "preCatalyst": {
+        "date": "2026-09-29 to 2026-10-03",
+        "time": "WMS; oral Oct 3",
+        "type": "HOPE-3 24-month OLE/delayed-start + Phase 3 clinical update",
+        "evidenceFor": "Randomized Phase 3 met primary endpoint with 54% slowing, p=0.03; key cardiac endpoint significant; peer-reviewed Lancet publication.",
+        "evidenceAgainst": "Major efficacy result already known; extension/delayed-start data are less clean than a new randomized pivotal readout.",
+        "evidenceConfidence": 93,
+        "rating": "HIGH-EVIDENCE / MODERATE NOVELTY"
+      }
     },
     {
-      "ticker": "WBUY",
-      "name": "Webuy Global",
-      "status": "H1 FUNDAMENTAL IMPROVEMENT / MICROCAP MOMENTUM",
-      "catalyst": 78,
-      "momentum": 94,
-      "entry": 58,
-      "composite": 78,
-      "change": null,
-      "trigger": "Require hold/reclaim after premarket consolidation; exact trigger TBD next scan",
-      "resistance": "TBD",
-      "room": "TBD",
-      "invalidation": "TBD next live scan",
-      "state": "testing",
-      "note": "H1 continuing-operations revenue rose to $14.31M from $7.36M and net loss narrowed to $3.32M from $7.69M. Premarket volume is very large relative to the company's size, but execution risk remains high.",
+      "ticker": "ARTV",
+      "name": "Artiva Biotherapeutics",
+      "status": "PRE-CATALYST • SJÖGREN DATA OCT 1",
+      "catalyst": 87,
+      "momentum": 48,
+      "entry": 74,
+      "composite": 79,
+      "explosiveScore": 84,
+      "evidenceConfidence": 74,
+      "repricingPotential": 84,
+      "preCatalystScore": 79,
+      "postCatalystScore": 82,
+      "decisionState": "WAIT/SMALL PRE-CATALYST ONLY • POST-CATALYST CONFIRMATION ATTRACTIVE",
+      "trigger": "Oct 1 updated ≥6-month Sjögren data; upgrade sharply only if responses are broad, durable and safety remains clean",
+      "resistance": "Recent ~$8-$9 zone",
+      "room": "High if small ~$343M company shows compelling durable autoimmune cell-therapy signal",
+      "invalidation": "Weak durability, heterogeneous responses, safety/outpatient-feasibility issue",
+      "state": "pre-catalyst",
+      "note": "Fresh scan independently found ARTV. Prior autoimmune data show encouraging clinical responses and clean safety/outpatient feasibility; upcoming oral title says 'robust efficacy responses.' But only 11 Sjögren patients makes the evidence fragile, so confirmation after the data may offer better risk-adjusted execution.",
       "sources": [
-        "https://www.benzinga.com/trading-ideas/movers/26/09/62015117/why-webuy-global-shares-are-trading-higher-by-around-15-here-are-20-stocks-moving-premarket"
+        "https://investors.artivabio.com/overview/",
+        "https://www.sec.gov/Archives/edgar/data/1817241/000119312526337986/artv-ex99_1.htm"
       ],
       "history": [
-        78
-      ]
+        79
+      ],
+      "preCatalyst": {
+        "date": "2026-10-01",
+        "time": "4:30-6:00 PM CEST",
+        "type": "Updated AlloNK + rituximab Sjögren clinical data, 11 patients",
+        "evidenceFor": "Prior Sjögren patients improved across clinical/patient/functional measures; 7 with six-month follow-up normalized mean stimulated salivary flow; no CRS/ICANS among 55 autoimmune safety-evaluable patients.",
+        "evidenceAgainst": "Tiny uncontrolled Sjögren cohort; presentation wording does not establish magnitude or durability.",
+        "evidenceConfidence": 74,
+        "rating": "POST-CONFIRMATION LEAN"
+      }
     },
     {
       "ticker": "NKTR",
       "name": "Nektar Therapeutics",
-      "status": "THU 8AM ET NEW DURABILITY DATA / PRE-CATALYST",
-      "catalyst": 88,
-      "momentum": 58,
-      "entry": 70,
-      "composite": 75,
-      "change": null,
-      "trigger": "Watch Tuesday-Wednesday structure for pre-event entry; avoid buying into a vertical pre-event spike",
-      "resistance": "Recent $61-$67 zone",
-      "room": "Moderate-high if 24-week off-treatment durability materially exceeds expectations",
-      "invalidation": "Durability fade or unexpected safety issue undermines catalyst thesis",
+      "status": "PRE-CATALYST • 6-MONTH OFF-TREATMENT OCT 1",
+      "catalyst": 89,
+      "momentum": 51,
+      "entry": 65,
+      "composite": 76,
+      "explosiveScore": 72,
+      "evidenceConfidence": 71,
+      "repricingPotential": 72,
+      "preCatalystScore": 76,
+      "postCatalystScore": 83,
+      "decisionState": "WAIT FOR RESULTS / POST-CATALYST SETUP PREFERRED",
+      "trigger": "Oct 1 8:00 AM ET: require convincing 24-week off-treatment durability; avoid assuming prior on-treatment deepening guarantees persistence",
+      "resistance": "Recent ~$60-$67 zone",
+      "room": "Moderate; ~$2B valuation dampens percentage repricing versus QTTB/ARTV",
+      "invalidation": "Meaningful response fade off treatment or safety issue",
       "state": "pre-catalyst",
-      "note": "Confirmed Oct 1 8:00 AM ET investor call will present NEW 6-month off-treatment REZOLVE-AA data. Prior 36- and 52-week treatment data support efficacy/safety, but original ITT primary endpoint narrowly missed significance, keeping genuine uncertainty. Larger ~$2B recent valuation makes KOD-scale percentage repricing harder than QTTB.",
+      "note": "Fresh scan independently rediscovered NKTR. On-treatment responses deepened through Week 52 and safety remained favorable, but original ITT Week-36 primary endpoint missed statistical significance. New six-month off-treatment data are genuinely novel, yet larger valuation and mixed statistical history make post-result confirmation preferable.",
       "sources": [
-        "https://www.prnewswire.com/news-releases/nektar-announces-three-oral-presentations-for-rezpegaldesleukin-at-the-european-academy-of-dermatology--venereology-eadv-congress-2026-302890946.html",
-        "https://www.prnewswire.com/news-releases/rezolve-aa-phase-2b-study-of-rezpegaldesleukin-establishes-proof-of-concept-in-patients-with-severe-to-very-severe-alopecia-areata-302643167.html"
+        "https://ir.nektar.com/news-releases/news-release-details/52-week-topline-results-16-week-blinded-treatment-extension",
+        "https://www.stocktitan.net/news/NKTR/nektar-announces-three-oral-presentations-for-rezpegaldesleukin-at-jj93y8ujb7kd.html"
       ],
       "history": [
-        75
+        76
       ],
       "preCatalyst": {
         "date": "2026-10-01",
         "time": "8:00 AM ET investor call",
         "type": "Phase 2b new 24-week off-treatment durability",
-        "evidenceFor": "Responses deepened through 52 weeks on treatment; favorable safety; Phase 3 advancement; new dataset specifically tests durability.",
-        "evidenceAgainst": "Original ITT primary endpoint did not reach statistical significance; larger valuation; durability could fade after stopping therapy.",
-        "rating": "WATCH-CLOSE"
+        "evidenceFor": "Responses deepened through 52 weeks; favorable safety; clear treatment-placebo separation and significance after excluding four major eligibility violations.",
+        "evidenceAgainst": "Original ITT primary endpoint p=0.186/0.121; ~$2B market cap; off-treatment durability remains unknown.",
+        "evidenceConfidence": 71,
+        "rating": "WAIT FOR RESULTS"
       }
     },
     {
       "ticker": "AVTX",
       "name": "Avalo Therapeutics",
-      "status": "WED/THU EADV PHASE 2 DETAIL / KNOWN POSITIVE TOPLINE",
-      "catalyst": 80,
-      "momentum": 54,
-      "entry": 64,
-      "composite": 69,
-      "change": null,
-      "trigger": "Only consider if pre-event price remains controlled and new subgroup detail can add meaningfully to known topline",
-      "resistance": "Recent ~$16-$16.50 area",
-      "room": "Moderate; primary topline already known",
-      "invalidation": "New subgroup/safety detail weakens previously strong LOTUS interpretation",
+      "status": "KNOWN-POSITIVE PHASE 2 DETAIL • EADV",
+      "catalyst": 79,
+      "momentum": 50,
+      "entry": 61,
+      "composite": 70,
+      "explosiveScore": 66,
+      "evidenceConfidence": 88,
+      "repricingPotential": 66,
+      "preCatalystScore": 70,
+      "postCatalystScore": 72,
+      "decisionState": "WATCH / HEADLINE RESULT ALREADY PRICED",
+      "trigger": "Only upgrade if new subgroup/lesion data materially expand the known LOTUS efficacy story",
+      "resistance": "Recent ~$16 area",
+      "room": "Moderate; ~$813M market cap and primary result already disclosed",
+      "invalidation": "Subgroup/safety detail weakens prior positive interpretation",
       "state": "pre-catalyst",
-      "note": "LOTUS already met its Phase 2 primary endpoint at both doses with strong HiSCR75 improvement. EADV adds primary-results detail and subgroup/lesion analyses, so positive direction is relatively de-risked but much of the headline result is already public.",
+      "note": "Positive Phase 2 primary result is already known, making outcome direction relatively de-risked but the incremental EADV information less likely to create a KOD-like repricing.",
       "sources": [
-        "https://www.globenewswire.com/news-release/2026/05/05/3288197/0/en/avalo-therapeutics-achieves-positive-topline-results-in-phase-2-lotus-trial-of-abdakibart-avtx-009-in-moderate-to-severe-hidradenitis-suppurativa.html",
-        "https://www.globenewswire.com/news-release/2026/09/23/3367320/0/en/avalo-therapeutics-to-present-at-the-european-academy-of-dermatology-and-venereology-eadv-2026-congress.html"
+        "https://ir.avalotx.com/news-events-presentations/press-releases/detail/233/avalo-therapeutics-to-present-at-the-european-academy-of-dermatology-and-venereology-eadv-2026-congress"
       ],
       "history": [
-        69
+        70
       ],
       "preCatalyst": {
         "date": "2026-09-30 to 2026-10-01",
-        "time": "Poster Wed 7:00 AM CEST; oral Thu 5:00 PM CEST",
+        "time": "Poster Wed; oral Thu 5 PM CEST",
         "type": "Phase 2 detailed/subgroup data",
-        "evidenceFor": "Primary endpoint already positive at both doses; key secondary endpoints positive; no unexpected safety findings; well funded after financing.",
-        "evidenceAgainst": "Headline efficacy is already known and therefore less likely to create a fresh KOD-like repricing.",
+        "evidenceFor": "Primary topline already positive and registrational Phase 3 planned.",
+        "evidenceAgainst": "Most important headline information is already public.",
+        "evidenceConfidence": 88,
         "rating": "WATCH"
       }
     },
     {
-      "ticker": "GYGY",
-      "name": "Game Your Game",
-      "status": "EXTREME MOMENTUM / MAJOR RESALE-SUPPLY RISK",
-      "catalyst": 65,
+      "ticker": "SOAR",
+      "name": "Volato Group",
+      "status": "POST-CATALYST CASE STUDY • $1.17B AI ORDERS",
+      "catalyst": 98,
       "momentum": 100,
-      "entry": 28,
-      "composite": 67,
-      "change": -10,
-      "trigger": "No chase; only controlled base/retest with sustained liquidity",
-      "resistance": "TBD",
-      "room": "TBD",
-      "invalidation": "TBD after base",
-      "state": "testing",
-      "note": "GYGY independently re-emerged near the top of premarket gainers with ~13M+ shares traded, but fresh operating catalyst quality remains weaker than ARAY/KOD/AMPX and prior large resale registrations remain a major counter-catalyst.",
+      "entry": 35,
+      "composite": 68,
+      "explosiveScore": 100,
+      "evidenceConfidence": 96,
+      "repricingPotential": 100,
+      "preCatalystScore": 10,
+      "postCatalystScore": 68,
+      "decisionState": "POST-CATALYST ONLY / EXTREME EXHAUSTION RISK",
+      "trigger": "Do not treat +~97% day as a fresh pre-catalyst setup; only reconsider after a stable base/reclaim and financing/execution review",
+      "resistance": "Fresh price discovery",
+      "room": "Contract is transformative relative to ~$19M market cap, but today's move already reflects major repricing",
+      "invalidation": "Failure to finance/build infrastructure, customer/acceptance issues, or momentum-base failure",
+      "state": "post-catalyst",
+      "note": "Fresh scan found a textbook non-biotech event-repricing example. SEC 8-K confirms ~$1.17B aggregate four-year orders, while the stock gained roughly 97% on ~724M shares. Excellent validation of the contract-catalyst model; poor chase setup after the event.",
       "sources": [
-        "https://stockanalysis.com/markets/premarket/gainers/",
-        "https://www.sec.gov/Archives/edgar/data/2111846/000121390026102399/ea030633202-424b3_game.htm"
+        "https://ir.flyvolato.com/financial-information/sec-filings/content/0001493152-26-044456/form8-k.htm"
       ],
       "history": [
-        69,
-        69,
-        75,
-        77,
-        77,
-        77,
-        67
+        68
       ]
     },
     {
-      "ticker": "MIMI",
-      "name": "Mint Incorporation",
-      "status": "MOMENTUM / FINANCING-RISK WATCH",
-      "catalyst": 55,
-      "momentum": 93,
-      "entry": 44,
-      "composite": 65,
-      "change": -3,
-      "trigger": "Reclaim/hold with volume; no chase",
-      "resistance": "TBD",
-      "room": "TBD",
-      "invalidation": "TBD next live scan",
-      "state": "testing",
-      "note": "MIMI independently re-emerged on heavy premarket volume, but fresh catalyst quality remains modest and prior share/pre-funded-warrant financing keeps supply risk elevated.",
-      "sources": [
-        "https://stockanalysis.com/markets/premarket/",
-        "https://www.sec.gov/Archives/edgar/data/1998560/000121390026094900/ea0303716-424b5_mint.htm"
-      ],
-      "history": [
-        70,
-        66,
-        68,
-        68,
-        68,
-        65
-      ]
-    },
-    {
-      "ticker": "SDEV",
-      "name": "Stablecoin Development",
-      "status": "CRYPTO/STABLECOIN MOMENTUM WATCH",
-      "catalyst": 58,
-      "momentum": 88,
+      "ticker": "MNTS",
+      "name": "Momentus",
+      "status": "NASA AWARD • POST-CATALYST WATCH",
+      "catalyst": 75,
+      "momentum": 45,
       "entry": 48,
-      "composite": 65,
-      "change": null,
-      "trigger": "Require a clean base/reclaim with sustained volume",
-      "resistance": "TBD",
-      "room": "TBD",
-      "invalidation": "TBD next live scan",
-      "state": "testing",
-      "note": "SDEV independently emerged on the live premarket mover list with multi-million-share volume. Catalyst verification is not strong enough yet to justify a high Catalyst score; treat as momentum-led until a material source is confirmed.",
+      "composite": 58,
+      "explosiveScore": 69,
+      "evidenceConfidence": 95,
+      "repricingPotential": 61,
+      "preCatalystScore": 5,
+      "postCatalystScore": 58,
+      "decisionState": "POST-CATALYST WATCH / ECONOMICS NOT YET TRANSFORMATIVE",
+      "trigger": "Require quantified follow-on economics or a new definitive mission award plus momentum confirmation",
+      "resistance": "TBD on next live structure check",
+      "room": "Unclear; initial competitive formulation task order is real but economic magnitude is not yet demonstrated",
+      "invalidation": "No follow-on selection or economics remain immaterial",
+      "state": "post-catalyst",
+      "note": "NASA task order is externally validated, but it supports an initial competitive mission-formulation phase. This passes catalyst credibility but not yet the transformative-economics test.",
       "sources": [
-        "https://stockanalysis.com/markets/premarket/"
+        "https://investors.momentus.space/news-releases/news-release-details/momentus-awarded-nasa-task-order-contract-support-initial-phase"
       ],
       "history": [
-        65
-      ]
-    },
-    {
-      "ticker": "CLRO",
-      "name": "ClearOne",
-      "status": "LOW-FLOAT SQUEEZE / OFFERING-WARRANT RISK",
-      "catalyst": 42,
-      "momentum": 99,
-      "entry": 25,
-      "composite": 57,
-      "change": -4,
-      "trigger": "No chase; require a stable base and executable spread",
-      "resistance": "TBD",
-      "room": "TBD",
-      "invalidation": "TBD after base",
-      "state": "testing",
-      "note": "CLRO independently re-emerged as an extreme premarket gainer on multi-million-share volume, but no comparably strong fresh operating catalyst was verified and the September unit/warrant offering remains a severe supply risk.",
-      "sources": [
-        "https://stockanalysis.com/markets/premarket/gainers/",
-        "https://www.sec.gov/Archives/edgar/data/840715/000175392626001724/MainDocument.htm"
-      ],
-      "history": [
-        58,
-        61,
-        61,
-        61,
-        57
-      ]
-    },
-    {
-      "ticker": "ONCO",
-      "name": "Onconetix",
-      "status": "MOMENTUM / EXTREME DILUTION RISK",
-      "catalyst": 40,
-      "momentum": 89,
-      "entry": 24,
-      "composite": 52,
-      "change": null,
-      "trigger": "No trade without exceptional confirmation",
-      "resistance": "TBD",
-      "room": "TBD",
-      "invalidation": "TBD next live scan",
-      "state": "testing",
-      "note": "ONCO re-emerged on premarket volume, but previously identified resale/dilution capacity remains too large relative to the company's capitalization for a high-quality long setup.",
-      "sources": [
-        "https://stockanalysis.com/markets/premarket/"
-      ],
-      "history": [
-        52
+        58
       ]
     }
   ],
@@ -470,6 +360,60 @@
       "history": [
         55
       ]
+    },
+    {
+      "ticker": "KOD",
+      "lastComposite": null,
+      "reason": "Removed from active board by Sep 28 clean-slate event-repricing scan; did not independently qualify as a current upcoming/preferred event setup under the new strategy.",
+      "history": []
+    },
+    {
+      "ticker": "AMPX",
+      "lastComposite": null,
+      "reason": "Removed from active board by Sep 28 clean-slate event-repricing scan; did not independently qualify as a current upcoming/preferred event setup under the new strategy.",
+      "history": []
+    },
+    {
+      "ticker": "ARAY",
+      "lastComposite": null,
+      "reason": "Removed from active board by Sep 28 clean-slate event-repricing scan; did not independently qualify as a current upcoming/preferred event setup under the new strategy.",
+      "history": []
+    },
+    {
+      "ticker": "ACET",
+      "lastComposite": null,
+      "reason": "Removed from active board by Sep 28 clean-slate event-repricing scan; did not independently qualify as a current upcoming/preferred event setup under the new strategy.",
+      "history": []
+    },
+    {
+      "ticker": "WBUY",
+      "lastComposite": null,
+      "reason": "Removed from active board by Sep 28 clean-slate event-repricing scan; did not independently qualify as a current upcoming/preferred event setup under the new strategy.",
+      "history": []
+    },
+    {
+      "ticker": "GYGY",
+      "lastComposite": null,
+      "reason": "Removed from active board by Sep 28 clean-slate event-repricing scan; did not independently qualify as a current upcoming/preferred event setup under the new strategy.",
+      "history": []
+    },
+    {
+      "ticker": "MIMI",
+      "lastComposite": null,
+      "reason": "Removed from active board by Sep 28 clean-slate event-repricing scan; did not independently qualify as a current upcoming/preferred event setup under the new strategy.",
+      "history": []
+    },
+    {
+      "ticker": "SDEV",
+      "lastComposite": null,
+      "reason": "Removed from active board by Sep 28 clean-slate event-repricing scan; did not independently qualify as a current upcoming/preferred event setup under the new strategy.",
+      "history": []
+    },
+    {
+      "ticker": "CLRO",
+      "lastComposite": null,
+      "reason": "Removed from active board by Sep 28 clean-slate event-repricing scan; did not independently qualify as a current upcoming/preferred event setup under the new strategy.",
+      "history": []
     }
   ],
   "methodology": {
@@ -550,15 +494,10 @@
     }
   },
   "scanNotes": {
-    "marketState": "Live Sep 28 scan expanded with forward explosive-catalyst layer.",
-    "discovery": "Fresh market-wide discovery performed before reading dashboard history. Used live premarket gainers/volume plus catalyst verification and counter-catalyst review. Previously discussed tickers were retained only when they independently re-emerged or had a fresh verified scheduled catalyst.",
-    "materialChange": "QTTB is the strongest newly identified pre-catalyst candidate for Sep 29-Oct 2: confirmed Sep 30 Phase 2a durability presentation, prior positive efficacy, small recent market cap and explicit 'persists off treatment' presentation title. NKTR is second for Oct 1 new 24-week off-treatment data; AVTX is more de-risked but less novel because topline is already public.",
-    "newlyReviewed": [
-      "ARAY — verified Samsung NeuroLogica CyberKnife imaging collaboration; extreme premarket rotation; no commercial product announced yet.",
-      "WBUY — H1 revenue nearly doubled and net loss narrowed; strong microcap volume.",
-      "SDEV — independently emerged on live mover list; catalyst remains insufficiently verified, so momentum-led only."
-    ],
-    "methodologyChange": "Integrated peer-reviewed event-study evidence into pre-catalyst scoring: stronger small/early-biotech repricing factor, later-stage/design/accrual quality, explicit asymmetric downside penalty, priced-in/expectations penalty, and secondary-only treatment of pre-event drift. Added frozen pre-event outcome logging plan.",
-    "savedScanMandate": "Trade Momentum+ scan mandate now permanently includes small-company explosive-event focus, separate positive-outcome evidence confidence and repricing-potential scoring, biotech plus government-contract priority discovery, cross-sector hard catalysts, and frozen pre-event outcome learning."
+    "marketState": "Fresh Sep 28 clean-slate Trade Momentum+ event-repricing scan.",
+    "discovery": "Market-wide discovery was performed before reading dashboard history. Active board now prioritizes future hard catalysts plus selective post-catalyst confirmation cases, with small-company repricing potential and evidence confidence scored separately.",
+    "materialChange": "QTTB independently ranks as the leading near-term pre-catalyst setup. CAPR has the highest evidence confidence but less novel upcoming data. ARTV is a smaller-company explosive candidate where post-result confirmation may be preferable. NKTR is explicitly WAIT FOR RESULTS. SOAR is retained only as a post-catalyst contract archetype, not a chase.",
+    "methodologyChange": "Dashboard now implements PRE-CATALYST ENTRY vs WAIT FOR RESULTS vs POST-CATALYST decision states and separates evidence confidence from repricing potential.",
+    "scanLimitations": "Live market-data plugin returned a zero-credit error, so current prices/market caps were cross-checked from current web sources rather than that feed. Scores are research heuristics, not calibrated probabilities."
   }
 }
