@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 28, 2026 • 5:50 AM PT",
+  "updated": "Sep 28, 2026 • 10:15 AM PT",
   "items": [
     {
       "ticker": "KOD",
@@ -79,6 +79,37 @@
       ]
     },
     {
+      "ticker": "QTTB",
+      "name": "Q32 Bio",
+      "status": "PRE-CATALYST LEADER / WED 1:00 AM ET POSTER + 9:15 AM ET ORAL",
+      "catalyst": 92,
+      "momentum": 64,
+      "entry": 82,
+      "composite": 82,
+      "change": null,
+      "trigger": "PRE-CATALYST: investigate starter entry before Wednesday; prefer no chase after sharp intraday extension",
+      "resistance": "Recent $9.20-$9.60 area, then ~$10.50 prior trading zone",
+      "room": "High if durability data materially strengthens Phase 3 case",
+      "invalidation": "Thesis weakens materially if off-treatment durability disappoints or new safety signal emerges",
+      "state": "pre-catalyst",
+      "note": "Confirmed EADV Sep 30 presentations add 36-week detail plus initial 16-week off-drug durability. Prior 36-week Phase 2a results were positive; presentation title explicitly says hair regrowth persists off treatment. Small ~$250M recent market cap increases repricing potential. Major 2026 financing improves runway, but a $75M ATM authorization remains a supply-risk flag.",
+      "sources": [
+        "https://ir.q32bio.com/news-releases/news-release-details/q32-bio-announces-upcoming-late-breaking-presentation-results",
+        "https://www.sec.gov/Archives/edgar/data/1661998/000119312526333831/qttb-20260630.htm"
+      ],
+      "history": [
+        82
+      ],
+      "preCatalyst": {
+        "date": "2026-09-30",
+        "time": "1:00 AM ET poster; 9:15 AM ET oral",
+        "type": "Phase 2a additional efficacy + initial off-drug durability",
+        "evidenceFor": "Positive 36-week topline; 40% SALT-20 in mITT; company says initial durability signals; presentation title says hair regrowth persists off treatment; Phase 3 planning and strong post-financing runway.",
+        "evidenceAgainst": "Open-label Part B; small N; prior topline already known, so incremental data may be partly priced; substantial 2026 issuance and remaining ATM capacity.",
+        "rating": "GO-RESEARCH / closest current KOD-like setup"
+      }
+    },
+    {
       "ticker": "ACET",
       "name": "Adicet Bio",
       "status": "CLINICAL DATA / THIN PREMARKET LIQUIDITY",
@@ -127,6 +158,68 @@
       "history": [
         78
       ]
+    },
+    {
+      "ticker": "NKTR",
+      "name": "Nektar Therapeutics",
+      "status": "THU 8AM ET NEW DURABILITY DATA / PRE-CATALYST",
+      "catalyst": 88,
+      "momentum": 58,
+      "entry": 70,
+      "composite": 75,
+      "change": null,
+      "trigger": "Watch Tuesday-Wednesday structure for pre-event entry; avoid buying into a vertical pre-event spike",
+      "resistance": "Recent $61-$67 zone",
+      "room": "Moderate-high if 24-week off-treatment durability materially exceeds expectations",
+      "invalidation": "Durability fade or unexpected safety issue undermines catalyst thesis",
+      "state": "pre-catalyst",
+      "note": "Confirmed Oct 1 8:00 AM ET investor call will present NEW 6-month off-treatment REZOLVE-AA data. Prior 36- and 52-week treatment data support efficacy/safety, but original ITT primary endpoint narrowly missed significance, keeping genuine uncertainty. Larger ~$2B recent valuation makes KOD-scale percentage repricing harder than QTTB.",
+      "sources": [
+        "https://www.prnewswire.com/news-releases/nektar-announces-three-oral-presentations-for-rezpegaldesleukin-at-the-european-academy-of-dermatology--venereology-eadv-congress-2026-302890946.html",
+        "https://www.prnewswire.com/news-releases/rezolve-aa-phase-2b-study-of-rezpegaldesleukin-establishes-proof-of-concept-in-patients-with-severe-to-very-severe-alopecia-areata-302643167.html"
+      ],
+      "history": [
+        75
+      ],
+      "preCatalyst": {
+        "date": "2026-10-01",
+        "time": "8:00 AM ET investor call",
+        "type": "Phase 2b new 24-week off-treatment durability",
+        "evidenceFor": "Responses deepened through 52 weeks on treatment; favorable safety; Phase 3 advancement; new dataset specifically tests durability.",
+        "evidenceAgainst": "Original ITT primary endpoint did not reach statistical significance; larger valuation; durability could fade after stopping therapy.",
+        "rating": "WATCH-CLOSE"
+      }
+    },
+    {
+      "ticker": "AVTX",
+      "name": "Avalo Therapeutics",
+      "status": "WED/THU EADV PHASE 2 DETAIL / KNOWN POSITIVE TOPLINE",
+      "catalyst": 80,
+      "momentum": 54,
+      "entry": 64,
+      "composite": 69,
+      "change": null,
+      "trigger": "Only consider if pre-event price remains controlled and new subgroup detail can add meaningfully to known topline",
+      "resistance": "Recent ~$16-$16.50 area",
+      "room": "Moderate; primary topline already known",
+      "invalidation": "New subgroup/safety detail weakens previously strong LOTUS interpretation",
+      "state": "pre-catalyst",
+      "note": "LOTUS already met its Phase 2 primary endpoint at both doses with strong HiSCR75 improvement. EADV adds primary-results detail and subgroup/lesion analyses, so positive direction is relatively de-risked but much of the headline result is already public.",
+      "sources": [
+        "https://www.globenewswire.com/news-release/2026/05/05/3288197/0/en/avalo-therapeutics-achieves-positive-topline-results-in-phase-2-lotus-trial-of-abdakibart-avtx-009-in-moderate-to-severe-hidradenitis-suppurativa.html",
+        "https://www.globenewswire.com/news-release/2026/09/23/3367320/0/en/avalo-therapeutics-to-present-at-the-european-academy-of-dermatology-and-venereology-eadv-2026-congress.html"
+      ],
+      "history": [
+        69
+      ],
+      "preCatalyst": {
+        "date": "2026-09-30 to 2026-10-01",
+        "time": "Poster Wed 7:00 AM CEST; oral Thu 5:00 PM CEST",
+        "type": "Phase 2 detailed/subgroup data",
+        "evidenceFor": "Primary endpoint already positive at both doses; key secondary endpoints positive; no unexpected safety findings; well funded after financing.",
+        "evidenceAgainst": "Headline efficacy is already known and therefore less likely to create a fresh KOD-like repricing.",
+        "rating": "WATCH"
+      }
     },
     {
       "ticker": "GYGY",
@@ -384,9 +477,9 @@
     "explosiveDefinition": "Rewards credible asymmetric upside from overhead room, effective float, rotation/RVOL, catalyst attraction, squeeze/price-discovery potential and risk-to-upside. Penalizes capped upside, exhaustion, dilution/supply, poor liquidity and pump-like structure. Does not override catalyst quality, confirmation or risk controls."
   },
   "scanNotes": {
-    "marketState": "Live premarket clean-slate scan.",
+    "marketState": "Live Sep 28 scan expanded with forward explosive-catalyst layer.",
     "discovery": "Fresh market-wide discovery performed before reading dashboard history. Used live premarket gainers/volume plus catalyst verification and counter-catalyst review. Previously discussed tickers were retained only when they independently re-emerged or had a fresh verified scheduled catalyst.",
-    "materialChange": "ARAY is the largest new actionable discovery: a verified Samsung NeuroLogica collaboration paired with >100M premarket shares. KOD remains the highest catalyst-quality name but Entry Quality is deliberately penalized for the post-Phase-3 gap/extension. GYGY and CLRO score high on momentum but remain low-quality entries because catalyst/supply structure is weaker.",
+    "materialChange": "QTTB is the strongest newly identified pre-catalyst candidate for Sep 29-Oct 2: confirmed Sep 30 Phase 2a durability presentation, prior positive efficacy, small recent market cap and explicit 'persists off treatment' presentation title. NKTR is second for Oct 1 new 24-week off-treatment data; AVTX is more de-risked but less novel because topline is already public.",
     "newlyReviewed": [
       "ARAY — verified Samsung NeuroLogica CyberKnife imaging collaboration; extreme premarket rotation; no commercial product announced yet.",
       "WBUY — H1 revenue nearly doubled and net loss narrowed; strong microcap volume.",
