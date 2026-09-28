@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 28, 2026 • 4:41 PM PT",
+  "updated": "Sep 28, 2026 • methodology saved",
   "items": [
     {
       "ticker": "KOD",
@@ -516,6 +516,37 @@
         "https://pubmed.ncbi.nlm.nih.gov/21949081/",
         "https://www.nature.com/articles/s41598-023-39301-4"
       ]
+    },
+    "scanMandate": {
+      "name": "Trade Momentum+ small-company event-repricing mandate",
+      "objective": "Find small U.S.-listed companies where a hard catalyst has both unusually strong public evidence favoring a positive outcome and the capacity to produce an explosive repricing.",
+      "coreEquation": "evidence confidence + catalyst importance/novelty + transformative economics relative to issuer + repricing potential + favorable market structure - priced-in expectations - failure downside - dilution/supply risk",
+      "mandatoryRules": [
+        "Every fresh scan starts market-wide from scratch; prior tickers do not receive preferential treatment.",
+        "Small market cap is a repricing advantage, not a qualification by itself.",
+        "Keep evidence confidence and explosive repricing potential as distinct scores; top pre-catalyst candidates should be strong on both.",
+        "Biotech clinical/regulatory events and government/DoD/DOE/NASA awards receive strong discovery attention but no catalyst type automatically passes.",
+        "Also search M&A, major customer contracts, strategic technology partnerships, court/IP/regulatory rulings, asset sales/strategic alternatives, exceptional earnings/guidance setups and transformative product/commercial milestones.",
+        "Prefer hard externally validated events over company-authored promotional announcements; downgrade MOUs, vague partnerships and routine launches without concrete economics.",
+        "For government contracts normalize award size to market cap, enterprise value and revenue; distinguish selection/appropriation from definitive award and revenue recognition.",
+        "For biotech score prior efficacy, endpoint consistency, durability, safety, powering, trial design, regulatory alignment and contradictory evidence.",
+        "Measure how much favorable outcome is already priced in through pre-event run, valuation and prior disclosure.",
+        "Evaluate float, liquidity, RVOL/rotation, short interest where useful, balance sheet, ATM/shelf/warrants/convertibles and downside on failure.",
+        "Freeze serious candidate scores/rationales before the event and log 1-hour, day-1, day-3, MFE/MAE and catalyst outcome for evidence-driven recalibration.",
+        "Do not overfit to KOD; use it as one reference observation while accumulating a larger sample."
+      ],
+      "priorityDiscovery": [
+        "Biotech Phase 2/3 and Phase 3 data",
+        "FDA/regulatory decisions",
+        "Government/DoD/DOE/NASA awards",
+        "Major binding customer contracts",
+        "Strategic technology partnerships with concrete economics",
+        "M&A/strategic alternatives",
+        "Court/IP/regulatory rulings",
+        "Transformative commercial/product milestones",
+        "Exceptional earnings/guidance asymmetry"
+      ],
+      "learningRule": "Change weights only when accumulated outcomes support the change; preserve failed and rejected candidates to reduce hindsight bias."
     }
   },
   "scanNotes": {
@@ -527,6 +558,7 @@
       "WBUY — H1 revenue nearly doubled and net loss narrowed; strong microcap volume.",
       "SDEV — independently emerged on live mover list; catalyst remains insufficiently verified, so momentum-led only."
     ],
-    "methodologyChange": "Integrated peer-reviewed event-study evidence into pre-catalyst scoring: stronger small/early-biotech repricing factor, later-stage/design/accrual quality, explicit asymmetric downside penalty, priced-in/expectations penalty, and secondary-only treatment of pre-event drift. Added frozen pre-event outcome logging plan."
+    "methodologyChange": "Integrated peer-reviewed event-study evidence into pre-catalyst scoring: stronger small/early-biotech repricing factor, later-stage/design/accrual quality, explicit asymmetric downside penalty, priced-in/expectations penalty, and secondary-only treatment of pre-event drift. Added frozen pre-event outcome logging plan.",
+    "savedScanMandate": "Trade Momentum+ scan mandate now permanently includes small-company explosive-event focus, separate positive-outcome evidence confidence and repricing-potential scoring, biotech plus government-contract priority discovery, cross-sector hard catalysts, and frozen pre-event outcome learning."
   }
 }
