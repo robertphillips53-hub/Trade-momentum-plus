@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 27, 2026 • 7:01 PM PT",
+  "updated": "Sep 27, 2026 • 9:13 PM PT",
   "items": [
     {
       "ticker": "KOD",
@@ -10,17 +10,21 @@
       "entry": 64,
       "composite": 84,
       "change": 0,
-      "trigger": "Post-readout break-and-hold only; establish from Monday price discovery",
+      "trigger": "Post-readout break-and-hold/retest only; establish from Monday price discovery",
       "resistance": "TBD after 8:30 AM ET Phase 3 readout",
       "room": "TBD",
       "invalidation": "Post-news support/VWAP failure; exact level TBD Monday",
       "state": "unconfirmed",
-      "note": "DAYBREAK pivotal Phase 3 topline results are scheduled Monday Sep 28 at 8:30 AM ET. Highest-impact scheduled catalyst in this clean-slate scan; do not pre-judge the binary result or chase the first spike.",
+      "note": "DAYBREAK pivotal Phase 3 topline results are confirmed for Monday Sep 28 at 8:30 AM ET. Highest-impact scheduled catalyst in this clean-slate scan; binary clinical risk is extreme and the first spike should not be chased.",
+      "sources": [
+        "https://kodiak.gcs-web.com/"
+      ],
       "history": [
         72,
         72,
         72,
         76,
+        84,
         84,
         84
       ]
@@ -37,10 +41,14 @@
       "trigger": "$9.08 Friday high / post-data hold-retest with volume",
       "resistance": "TBD after clinical-data reaction",
       "room": "TBD",
-      "invalidation": "$8.44 Friday low; reset after data",
+      "invalidation": "$8.44 Friday low reference; reset after data",
       "state": "testing",
-      "note": "Phase 1 prula-cel lupus/lupus-nephritis clinical data Monday Sep 28 with 8:00 AM ET webcast. Friday closed about $8.95 after trading to $9.08. Binary clinical risk remains high.",
+      "note": "Phase 1 prula-cel lupus/lupus-nephritis clinical data Monday Sep 28 with 8:00 AM ET webcast. Active ATM capacity and clinical binary risk remain counter-catalysts.",
+      "sources": [
+        "https://adicetbio.gcs-web.com/"
+      ],
       "history": [
+        83,
         83,
         83
       ]
@@ -51,102 +59,77 @@
       "status": "HIGH-PRIORITY CATALYST + LIQUIDITY WATCH",
       "catalyst": 86,
       "momentum": 95,
-      "entry": 66,
-      "composite": 81,
-      "change": 0,
+      "entry": 62,
+      "composite": 80,
+      "change": -1,
       "trigger": "$2.12 Friday high; require volume-backed clear/hold or clean retest",
       "resistance": "TBD Monday",
       "room": "TBD",
       "invalidation": "$1.95-$2.00 initial reference",
       "state": "unconfirmed",
-      "note": "Verified commercial-partnership momentum around NeuroSigma/Radial and FDA-cleared brain-health products. Friday closed about $2.02 after a huge move and heavy volume. Excellent momentum, but extension keeps Entry below Catalyst/Momentum.",
+      "note": "Sep 25 NeuroSigma partnership is verified and Friday volume was exceptional. Entry is penalized for extension and an existing ATM/shelf financing overhang.",
+      "sources": [
+        "https://www.globenewswire.com/news-release/2026/09/25/3369065/0/en/firefly-nasdaq-aiff-and-neurosigma-partner-to-expand-access-to-first-fda-cleared-non-drug-treatment-for-pediatric-adhd.html"
+      ],
       "history": [
         80,
         79,
         79,
         81,
         81,
-        81
+        81,
+        80
       ]
     },
     {
-      "ticker": "BFRI",
-      "name": "Biofrontera",
-      "status": "NEW TOP MONDAY FDA / PDUFA BINARY",
-      "catalyst": 100,
-      "momentum": 52,
-      "entry": 60,
-      "composite": 79,
-      "change": null,
-      "trigger": "$1.23 Friday high only if decision has not hit; after FDA news use post-decision break-and-hold/retest",
-      "resistance": "$1.32 then $1.36; reset after FDA decision",
-      "room": "~7.3% from $1.23 to $1.32 pre-decision; post-news TBD",
-      "invalidation": "$1.16 Friday low pre-decision; post-news support/VWAP failure TBD",
-      "state": "unconfirmed",
-      "note": "Clean-slate scan surfaced a Monday Sep 28 FDA PDUFA decision for Ameluz PDT label expansion into superficial basal cell carcinoma. If approved, company says it would be the first and only PDT photosensitizer indicated for sBCC in the U.S. Friday closed about $1.18 on ~248K shares, below average volume, so catalyst quality is exceptional but momentum/executability are weaker than KOD/ACET/AIFF. Treat as binary FDA risk; do not chase the first headline spike.",
-      "history": [
-        79
-      ]
-    },
-    {
-      "ticker": "GLND",
-      "name": "Greenland Energy",
-      "status": "KEVIN WATCH + STRONG CONTINUATION CANDIDATE",
-      "catalyst": 76,
-      "momentum": 86,
-      "entry": 58,
-      "composite": 72,
-      "change": 4,
-      "trigger": "$6.67 Friday high; alternative setup is a controlled higher-low reclaim above $5.50-$5.70",
-      "resistance": "$6.67 then price discovery",
-      "room": "Meaningful only if $6.67 clears with real volume",
-      "invalidation": "$4.83 Friday low / loss of momentum structure",
+      "ticker": "GYGY",
+      "name": "Game Your Game",
+      "status": "EXTREME AH MOMENTUM / MAJOR SUPPLY RISK",
+      "catalyst": 84,
+      "momentum": 99,
+      "entry": 39,
+      "composite": 75,
+      "change": 6,
+      "trigger": "$1.68 Friday/AH session-high reference; only a controlled hold/retest or fresh volume-backed break",
+      "resistance": "TBD Monday",
+      "room": "TBD",
+      "invalidation": "TBD after Monday price discovery",
       "state": "testing",
-      "note": "Independently re-qualified in the clean-slate scan. Friday traded $4.83-$6.67 and closed $5.53 after Thursday's surge. Greenland-security/critical-minerals theme remains active, but direct company benefit is still speculative and proposed 80 Mile combination/warrant supply creates dilution risk. Also independently appeared on Kevin's weekend watchlist.",
+      "note": "Friday after-hours move was about +100% on ~41M shares and ~72x relative volume. Major counter-catalyst: resale registrations cover up to 22.2M convertible-preferred-linked shares plus a separate 16.1M-share resale registration. Halt/whipsaw/pump-like behavior risk is high; do not chase.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/2111846/000121390026102399/ea030633202-424b3_game.htm",
+        "https://www.sec.gov/Archives/edgar/data/2111846/000121390026102400/ea030633203-424b3_game.htm"
+      ],
       "history": [
-        71,
-        70,
-        73,
-        68,
-        72
+        69,
+        69,
+        75
       ]
     },
     {
-      "ticker": "FTHM",
-      "name": "Fathom Holdings",
-      "status": "NEW DEAL-RESTRUCTURE CATALYST",
-      "catalyst": 82,
-      "momentum": 74,
-      "entry": 61,
+      "ticker": "INLF",
+      "name": "INLIF Limited",
+      "status": "SUPPLY-POSITIVE FILING + EXTREME MOMENTUM",
+      "catalyst": 79,
+      "momentum": 98,
+      "entry": 44,
       "composite": 72,
-      "change": null,
-      "trigger": "$0.64 Friday high / hold above $0.60",
-      "resistance": "TBD above $0.64",
-      "room": "Good percentage room if $0.64 breaks cleanly",
-      "invalidation": "$0.56 Friday low",
+      "change": 13,
+      "trigger": "$6.85-$6.87 Friday high zone; require clean break/hold",
+      "resistance": "TBD Monday",
+      "room": "TBD",
+      "invalidation": "$4.57-$4.59 initial reference",
       "state": "unconfirmed",
-      "note": "Fresh proposed alternative transaction with NXH centers on contributed digital assets carrying a proposed minimum $130M valuation. Friday volume expanded sharply versus Thursday. Still a proposal, so deal-structure and dilution risk matter.",
+      "note": "Fresh SEC review found a material supply-positive item missed in earlier scoring: INLIF terminated its prior ATM sales agreement that had allowed up to $100M of stock sales. Friday momentum was extreme, but extension and shelf-registration risk keep Entry constrained.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1991592/000121390026103139/ea0306361-6k_inlif.htm"
+      ],
       "history": [
+        76,
+        75,
+        76,
+        59,
         72
-      ]
-    },
-    {
-      "ticker": "ONCO",
-      "name": "Onconetix",
-      "status": "NEW AI-ROBOTICS STORY + MOMENTUM",
-      "catalyst": 82,
-      "momentum": 79,
-      "entry": 54,
-      "composite": 71,
-      "change": null,
-      "trigger": "$1.42 Friday high",
-      "resistance": "TBD above $1.42",
-      "room": "Potentially strong if $1.42 clears, but needs confirmation",
-      "invalidation": "$1.00 Friday low",
-      "state": "unconfirmed",
-      "note": "Realbotix AI-humanoid robotics acquisition story, bridge financing and strategic backing drove renewed attention. Friday traded roughly $1.00-$1.42 and closed $1.03. All-stock deal and ongoing equity funding create meaningful dilution risk.",
-      "history": [
-        71
       ]
     },
     {
@@ -163,10 +146,14 @@
       "room": "TBD",
       "invalidation": "$2.18-$2.20 Friday low/reference",
       "state": "unconfirmed",
-      "note": "Non-binding LOI contemplates up to $50M strategic equity investment, but funding is not committed and could materially dilute holders/change control. Friday post-split session weakened despite heavy volume.",
+      "note": "Sep 25 8-K confirms a non-binding LOI for up to $50M strategic private-placement investment. It is not committed and could materially dilute holders or change control.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1849820/000184982026000150/kitt-20260925.htm"
+      ],
       "history": [
         76,
         75,
+        71,
         71,
         71
       ]
@@ -174,99 +161,97 @@
     {
       "ticker": "MIMI",
       "name": "Mint Incorporation",
-      "status": "KEVIN WATCH + LOW-FLOAT / TOKENIZATION SETUP",
-      "catalyst": 71,
-      "momentum": 83,
-      "entry": 58,
-      "composite": 70,
-      "change": null,
-      "trigger": "$1.02-$1.05 reclaim/hold zone; require strong premarket volume",
-      "resistance": "Recent $1.00-$1.05 supply zone then September spike levels",
-      "room": "Good percentage room if $1.05 converts to support",
-      "invalidation": "Loss of $0.78-$0.80 area",
+      "status": "AH MOMENTUM / FINANCING-RISK WATCH",
+      "catalyst": 58,
+      "momentum": 91,
+      "entry": 48,
+      "composite": 66,
+      "change": -4,
+      "trigger": "$0.94-$1.00 reclaim/hold with strong volume",
+      "resistance": "TBD Monday",
+      "room": "TBD",
+      "invalidation": "$0.77-$0.80 reference",
       "state": "testing",
-      "note": "Added from Kevin's weekend list but scored independently. Recent issuer-sponsored Ethereum/Solana share-tokenization story gives it a speculative crypto/AI narrative. August registered direct offering added shares and pre-funded warrants; reverse-split/compliance history increases risk. Friday/late-session indications showed renewed interest around $1.00.",
-      "history": [
-        70
-      ]
-    },
-    {
-      "ticker": "FATE",
-      "name": "Fate Therapeutics",
-      "status": "VERIFIED GRANT CATALYST",
-      "catalyst": 86,
-      "momentum": 64,
-      "entry": 65,
-      "composite": 70,
-      "change": 0,
-      "trigger": "$2.47 Friday high",
-      "resistance": "$2.58-$2.63 recent resistance zone",
-      "room": "~4.5% to $2.58 from $2.47 trigger",
-      "invalidation": "$2.27 Friday low",
-      "state": "unconfirmed",
-      "note": "$15M CIRM CLIN2 grant supports a Phase 2 potentially registrational FT819 lupus-nephritis trial. Catalyst is real; momentum confirmation is still weaker than the top names.",
+      "note": "Friday after-hours continuation was strong, but no comparably fresh material catalyst was verified. August financing included 1.4M shares plus pre-funded warrants for 1.1M shares, following a July PIPE, so supply risk is meaningful.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1998560/000121390026094900/ea0303716-424b5_mint.htm"
+      ],
       "history": [
         70,
-        70
+        66
       ]
     },
     {
-      "ticker": "GYGY",
-      "name": "Game Your Game",
-      "status": "KEVIN WATCH + FRESH AI PRODUCT CATALYST",
-      "catalyst": 84,
-      "momentum": 68,
-      "entry": 56,
-      "composite": 69,
-      "change": 0,
-      "trigger": "$0.90-$1.00 reclaim/hold; avoid wide-spread chase",
-      "resistance": "$1.05 then recent $1.20 area",
-      "room": "Attractive only if liquidity tightens and $1.00 holds",
-      "invalidation": "$0.71-$0.73 Friday regular-session support",
+      "ticker": "GLND",
+      "name": "Greenland Energy",
+      "status": "THEME / CORPORATE-CATALYST WATCH WITH SUPPLY RISK",
+      "catalyst": 72,
+      "momentum": 86,
+      "entry": 50,
+      "composite": 67,
+      "change": -5,
+      "trigger": "$6.67 Friday high; alternatively controlled higher-low reclaim",
+      "resistance": "$6.67 then price discovery",
+      "room": "TBD",
+      "invalidation": "$4.83 Friday low / loss of momentum structure",
       "state": "testing",
-      "note": "Restored from archive after independent re-check. Sep 23 full commercial launch of GameGolf KZN AI is a real fresh catalyst. Major caution: resale registrations cover up to 22.2M convertible-preferred-linked shares plus a separate 16.1M-share resale registration, creating substantial supply risk. Also appeared on Kevin's weekend watchlist.",
+      "note": "Critical-minerals/Greenland theme remains active and the Jameson Land farm-out extension is recent. Sep 23 SEC filing includes a securities purchase agreement and pre-funded warrant, increasing supply-risk weighting.",
+      "sources": [
+        "https://www.prnewswire.com/news/greenland-energy-company/"
+      ],
       "history": [
-        69,
-        69
-      ]
-    },
-    {
-      "ticker": "JAGX",
-      "name": "Jaguar Health",
-      "status": "ULTRA-LOW-FLOAT SQUEEZE / EXHAUSTION WATCH",
-      "catalyst": 78,
-      "momentum": 96,
-      "entry": 31,
-      "composite": 68,
-      "change": null,
-      "trigger": "No chase; only controlled base/reclaim after volatility compresses",
-      "resistance": "$12.10 Friday high then prior squeeze zones",
-      "room": "Large but extremely unstable",
-      "invalidation": "$6.84 Friday low / failed reclaim",
-      "state": "exhausted",
-      "note": "Rare-disease/FDA-waiver story plus post-split float around only a few hundred thousand shares created violent squeeze conditions. Friday traded roughly $6.84-$12.10 and closed $7.63. Eight reverse splits since 2018 and chronic financing/dilution risk make this a high-danger continuation name.",
-      "history": [
-        68
+        71,
+        70,
+        73,
+        68,
+        72,
+        67
       ]
     },
     {
       "ticker": "GPUS",
       "name": "Hyperscale Data",
-      "status": "AI-DATA-CENTER CATALYST / CONVERTIBLE RISK",
+      "status": "AI DATA-CENTER CATALYST / CONVERTIBLE RISK",
       "catalyst": 82,
-      "momentum": 68,
-      "entry": 56,
-      "composite": 68,
-      "change": 0,
+      "momentum": 78,
+      "entry": 49,
+      "composite": 67,
+      "change": -1,
       "trigger": "TBD Monday price/volume confirmation",
       "resistance": "TBD next live scan",
       "room": "TBD",
       "invalidation": "TBD next live scan",
       "state": "unconfirmed",
-      "note": "Ault disclosed $55M invested through convertible preferred stock and company has an initial 20 MW AI-compute customer agreement with expansion rights to 52 MW. Convertible/preferred structure is a material supply/governance risk.",
+      "note": "Initial 20 MW AI-compute customer agreement and $55M Ault investment remain real catalysts; Friday volume was enormous. Convertible preferred financing and controlling-holder structure remain major risk factors.",
+      "sources": [
+        "https://www.stocktitan.net/news/GPUS/"
+      ],
       "history": [
         68,
-        68
+        68,
+        67
+      ]
+    },
+    {
+      "ticker": "CLRO",
+      "name": "ClearOne",
+      "status": "LOW-FLOAT AH SQUEEZE / OFFERING RISK",
+      "catalyst": 40,
+      "momentum": 94,
+      "entry": 30,
+      "composite": 58,
+      "change": null,
+      "trigger": "$5.10 AH high reference; no chase without base/retest",
+      "resistance": "TBD Monday",
+      "room": "TBD",
+      "invalidation": "TBD after Monday price discovery",
+      "state": "testing",
+      "note": "Friday AH gained ~43% on ~1M shares with sub-1M reported float, but no strong fresh operating catalyst was verified. A September preliminary offering contemplates 2.86M-4.29M units at $3.50 with warrants, a severe supply/dilution counterweight.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/840715/000175392626001724/MainDocument.htm"
+      ],
+      "history": [
+        58
       ]
     }
   ],
@@ -295,27 +280,30 @@
     },
     {
       "ticker": "TDIC",
-      "lastComposite": 57,
-      "reason": "Extreme momentum without a verified fresh material catalyst; exhaustion risk remains.",
+      "lastComposite": 55,
+      "reason": "Extreme Friday volume/momentum but no verified fresh material catalyst; Friday AH faded and exhaustion/pump risk remains high.",
       "history": [
-        57
+        57,
+        55
       ]
     },
     {
       "ticker": "CNET",
       "lastComposite": 52,
-      "reason": "No verified fresh catalyst strong enough to retain current ranking.",
+      "reason": "After-hours activity but no verified fresh catalyst strong enough for active status.",
       "history": [
+        52,
         52
       ]
     },
     {
       "ticker": "MSGY",
-      "lastComposite": 50,
-      "reason": "Friday +300% class move remains extremely extended with no verified catalyst strong enough for active status.",
+      "lastComposite": 48,
+      "reason": "Extreme prior move followed by heavy after-hours decline; exhausted structure and insufficient fresh catalyst.",
       "history": [
         61,
-        50
+        50,
+        48
       ]
     },
     {
@@ -328,6 +316,56 @@
         64,
         57,
         56
+      ]
+    },
+    {
+      "ticker": "BFRI",
+      "lastComposite": 79,
+      "reason": "REMOVED: prior dashboard entry treated Sep 28 as an upcoming PDUFA, but fresh verification showed the relevant Ameluz sBCC approval had already been announced earlier in September. Stale catalyst; not a Monday binary.",
+      "history": [
+        79,
+        79
+      ]
+    },
+    {
+      "ticker": "FTHM",
+      "lastComposite": 72,
+      "reason": "Did not independently qualify for the current active ranking after clean-slate catalyst, momentum, entry and risk review.",
+      "history": [
+        72
+      ]
+    },
+    {
+      "ticker": "ONCO",
+      "lastComposite": 71,
+      "reason": "Did not independently qualify for the current active ranking after clean-slate catalyst, momentum, entry and risk review.",
+      "history": [
+        71
+      ]
+    },
+    {
+      "ticker": "FATE",
+      "lastComposite": 70,
+      "reason": "Did not independently qualify for the current active ranking after clean-slate catalyst, momentum, entry and risk review.",
+      "history": [
+        70,
+        70
+      ]
+    },
+    {
+      "ticker": "JAGX",
+      "lastComposite": 68,
+      "reason": "Did not independently qualify for the current active ranking after clean-slate catalyst, momentum, entry and risk review.",
+      "history": [
+        68
+      ]
+    },
+    {
+      "ticker": "GWH",
+      "lastComposite": 35,
+      "reason": "NYSE announced delisting proceedings; removed from momentum-long candidate set despite recent volume.",
+      "history": [
+        35
       ]
     }
   ]
