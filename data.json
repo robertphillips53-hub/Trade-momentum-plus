@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 28, 2026 • 10:15 AM PT",
+  "updated": "Sep 28, 2026 • 4:41 PM PT",
   "items": [
     {
       "ticker": "KOD",
@@ -474,7 +474,49 @@
   ],
   "methodology": {
     "explosiveWeight": "~10% of Composite",
-    "explosiveDefinition": "Rewards credible asymmetric upside from overhead room, effective float, rotation/RVOL, catalyst attraction, squeeze/price-discovery potential and risk-to-upside. Penalizes capped upside, exhaustion, dilution/supply, poor liquidity and pump-like structure. Does not override catalyst quality, confirmation or risk controls."
+    "explosiveDefinition": "Rewards credible asymmetric upside from overhead room, effective float, rotation/RVOL, catalyst attraction, squeeze/price-discovery potential and risk-to-upside. Penalizes capped upside, exhaustion, dilution/supply, poor liquidity and pump-like structure. Does not override catalyst quality, confirmation or risk controls.",
+    "evidenceResearchVersion": "2026-09-28 literature integration v1",
+    "preCatalystEvidenceModel": {
+      "purpose": "Rank pre-catalyst event setups using empirically supported repricing and downside features without treating any feature as deterministic.",
+      "principles": [
+        "Event magnitude matters separately from probability of a positive outcome: prioritize catalysts capable of changing asset/company value materially.",
+        "Increase repricing-potential weight for early/small biotechnology sponsors; larger-cap and diversified sponsors generally show smaller event sensitivity.",
+        "Increase catalyst-importance weight for Phase 2/3 and Phase 3, especially placebo-controlled studies and adequately/larger-powered trials; Phase 1/1-2 and small exploratory datasets receive less repricing credit unless unusually transformative.",
+        "Score trial design, target accrual/power, endpoint quality, prior-phase consistency, safety, regulatory alignment and contradictory evidence separately from market-structure factors.",
+        "Apply an asymmetric downside penalty: negative clinical surprises historically produce larger/more persistent abnormal returns than positive results in several event studies.",
+        "Do not equate positive announcement language with positive stock reaction; expectations/pricing and other contemporaneous information can overwhelm headline polarity.",
+        "Treat pre-event price/volume drift as a secondary context signal only, not evidence of success. Historical oncology work found differing pre-announcement trends but was retrospective, small and potentially confounded.",
+        "Explicitly measure priced-in risk: recent run-up, valuation, prior disclosure of headline results, options/short positioning and financing supply can reduce entry quality even when the catalyst is scientifically promising.",
+        "Favor extreme-repricing candidates over routine positive-news candidates when evidence quality is comparable; empirical ML research found extreme reaction classes more distinguishable than middle outcomes.",
+        "Track outcome windows separately: immediate/1-hour, close/day-1, and day-3; do not assume a positive initial reaction persists."
+      ],
+      "literatureSignals": {
+        "sponsorSensitivity": "Early/small biotech > large/diversified pharma for typical event-move magnitude.",
+        "stageDesign": "Later-stage (especially Phase 2/3 and 3), placebo-controlled designs and greater target accrual showed larger abnormal-return associations in the large 13,807-trial study.",
+        "downsideAsymmetry": "Negative trial outcomes can have larger and more persistent downside than positive outcomes' upside; impose explicit failure-loss penalty.",
+        "positiveNewsCaveat": "Positive clinical news does not reliably guarantee positive abnormal returns; market expectations matter.",
+        "preEventDrift": "Potentially informative but weak/secondary because published oncology evidence is retrospective and confounded; never use as a standalone success predictor.",
+        "marketCap": "Smaller firms are generally more event-sensitive; use market cap/asset concentration in repricing potential.",
+        "extremeEvents": "Model should distinguish probability-of-success from magnitude-of-repricing and seek setups strong on both."
+      },
+      "proposedPreCatalystScoreWeights": {
+        "evidenceOfPositiveOutcome": 30,
+        "catalystImportanceAndNovelty": 20,
+        "repricingPotential": 15,
+        "trialOrEventDesignQuality": 10,
+        "expectationsAndPricedInPenalty": 10,
+        "downsideAndFailureSeverity": 10,
+        "financingDilutionSupplyRisk": 5
+      },
+      "validationPlan": "Freeze each candidate's score and rationale before the event. Record event result plus 1-hour, day-1 and day-3 returns, maximum favorable/adverse excursion, volume/RVOL and whether the catalyst was already partly disclosed. Recalibrate weights only after a meaningful sample; avoid fitting rules to individual wins such as KOD.",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9439234/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3737210/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10817120/",
+        "https://pubmed.ncbi.nlm.nih.gov/21949081/",
+        "https://www.nature.com/articles/s41598-023-39301-4"
+      ]
+    }
   },
   "scanNotes": {
     "marketState": "Live Sep 28 scan expanded with forward explosive-catalyst layer.",
@@ -484,6 +526,7 @@
       "ARAY — verified Samsung NeuroLogica CyberKnife imaging collaboration; extreme premarket rotation; no commercial product announced yet.",
       "WBUY — H1 revenue nearly doubled and net loss narrowed; strong microcap volume.",
       "SDEV — independently emerged on live mover list; catalyst remains insufficiently verified, so momentum-led only."
-    ]
+    ],
+    "methodologyChange": "Integrated peer-reviewed event-study evidence into pre-catalyst scoring: stronger small/early-biotech repricing factor, later-stage/design/accrual quality, explicit asymmetric downside penalty, priced-in/expectations penalty, and secondary-only treatment of pre-event drift. Added frozen pre-event outcome logging plan."
   }
 }
