@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 27, 2026 • 9:13 PM PT",
+  "updated": "Sep 27, 2026 • 10:00 PM PT",
   "items": [
     {
       "ticker": "KOD",
@@ -9,15 +9,16 @@
       "momentum": 72,
       "entry": 64,
       "composite": 85,
-      "change": 1,
+      "change": 0,
       "trigger": "Post-readout break-and-hold/retest only; establish from Monday price discovery",
       "resistance": "TBD after 8:30 AM ET Phase 3 readout",
       "room": "TBD",
       "invalidation": "Post-news support/VWAP failure; exact level TBD Monday",
       "state": "unconfirmed",
-      "note": "DAYBREAK pivotal Phase 3 topline results are confirmed for Monday Sep 28 at 8:30 AM ET. Highest-impact scheduled catalyst in this clean-slate scan; binary clinical risk is extreme and the first spike should not be chased.",
+      "note": "Fresh 10 PM verification confirms DAYBREAK pivotal Phase 3 topline results Monday Sep 28 with webcast at 8:30 AM ET. Highest-impact scheduled catalyst in this scan; binary clinical risk is extreme and the first spike should not be chased.",
       "sources": [
-        "https://kodiak.gcs-web.com/"
+        "https://ir.kodiak.com/news-releases/news-release-details/kodiak-sciences-present-topline-results-september-28-2026/",
+        "https://ir.kodiak.com/events/event-details/daybreak-topline-results-webcast"
       ],
       "history": [
         72,
@@ -27,6 +28,7 @@
         84,
         84,
         84,
+        85,
         85
       ],
       "explosiveScore": 84,
@@ -41,20 +43,22 @@
       "momentum": 83,
       "entry": 65,
       "composite": 84,
-      "change": 1,
+      "change": 0,
       "trigger": "$9.08 Friday high / post-data hold-retest with volume",
       "resistance": "TBD after clinical-data reaction",
       "room": "TBD",
       "invalidation": "$8.44 Friday low reference; reset after data",
       "state": "testing",
-      "note": "Phase 1 prula-cel lupus/lupus-nephritis clinical data Monday Sep 28 with 8:00 AM ET webcast. Active ATM capacity and clinical binary risk remain counter-catalysts.",
+      "note": "Fresh 10 PM verification confirms Phase 1 prula-cel lupus/lupus-nephritis clinical data Monday Sep 28 followed by an 8:00 AM ET webcast. Active ATM capacity and clinical binary risk remain counter-catalysts.",
       "sources": [
-        "https://adicetbio.gcs-web.com/"
+        "https://investor.adicetbio.com/news-releases/news-release-details/adicet-bio-host-webcast-present-prula-cel-formerly-adi-001",
+        "https://investor.adicetbio.com/events-and-presentations/events"
       ],
       "history": [
         83,
         83,
         83,
+        84,
         84
       ],
       "explosiveScore": 90,
@@ -69,7 +73,7 @@
       "momentum": 95,
       "entry": 62,
       "composite": 81,
-      "change": 1,
+      "change": 0,
       "trigger": "$2.12 Friday high; require volume-backed clear/hold or clean retest",
       "resistance": "TBD Monday",
       "room": "TBD",
@@ -87,6 +91,7 @@
         81,
         81,
         80,
+        81,
         81
       ],
       "explosiveScore": 86,
@@ -101,7 +106,7 @@
       "momentum": 99,
       "entry": 39,
       "composite": 77,
-      "change": 2,
+      "change": 0,
       "trigger": "$1.68 Friday/AH session-high reference; only a controlled hold/retest or fresh volume-backed break",
       "resistance": "TBD Monday",
       "room": "TBD",
@@ -116,6 +121,7 @@
         69,
         69,
         75,
+        77,
         77
       ],
       "explosiveScore": 98,
@@ -130,7 +136,7 @@
       "momentum": 98,
       "entry": 44,
       "composite": 74,
-      "change": 2,
+      "change": 0,
       "trigger": "$6.85-$6.87 Friday high zone; require clean break/hold",
       "resistance": "TBD Monday",
       "room": "TBD",
@@ -146,6 +152,7 @@
         76,
         59,
         72,
+        74,
         74
       ],
       "explosiveScore": 94,
@@ -160,7 +167,7 @@
       "momentum": 82,
       "entry": 43,
       "composite": 73,
-      "change": 2,
+      "change": 0,
       "trigger": "$3.23-$3.24 Friday high/reclaim zone",
       "resistance": "TBD next live scan",
       "room": "TBD",
@@ -176,6 +183,7 @@
         71,
         71,
         71,
+        73,
         73
       ],
       "explosiveScore": 87,
@@ -190,7 +198,7 @@
       "momentum": 86,
       "entry": 50,
       "composite": 69,
-      "change": 2,
+      "change": 0,
       "trigger": "$6.67 Friday high; alternatively controlled higher-low reclaim",
       "resistance": "$6.67 then price discovery",
       "room": "TBD",
@@ -207,6 +215,7 @@
         68,
         72,
         67,
+        69,
         69
       ],
       "explosiveScore": 84,
@@ -221,7 +230,7 @@
       "momentum": 78,
       "entry": 49,
       "composite": 69,
-      "change": 2,
+      "change": 0,
       "trigger": "TBD Monday price/volume confirmation",
       "resistance": "TBD next live scan",
       "room": "TBD",
@@ -235,6 +244,7 @@
         68,
         68,
         67,
+        69,
         69
       ],
       "explosiveScore": 82,
@@ -249,7 +259,7 @@
       "momentum": 91,
       "entry": 48,
       "composite": 68,
-      "change": 2,
+      "change": 0,
       "trigger": "$0.94-$1.00 reclaim/hold with strong volume",
       "resistance": "TBD Monday",
       "room": "TBD",
@@ -262,6 +272,7 @@
       "history": [
         70,
         66,
+        68,
         68
       ],
       "explosiveScore": 89,
@@ -276,7 +287,7 @@
       "momentum": 94,
       "entry": 30,
       "composite": 61,
-      "change": 3,
+      "change": 0,
       "trigger": "$5.10 AH high reference; no chase without base/retest",
       "resistance": "TBD Monday",
       "room": "TBD",
@@ -288,6 +299,7 @@
       ],
       "history": [
         58,
+        61,
         61
       ],
       "explosiveScore": 91,
@@ -420,5 +432,17 @@
   "methodology": {
     "explosiveWeight": "~10% of Composite",
     "explosiveDefinition": "Rewards credible asymmetric upside from overhead room, effective float, rotation/RVOL, catalyst attraction, squeeze/price-discovery potential and risk-to-upside. Penalizes capped upside, exhaustion, dilution/supply, poor liquidity and pump-like structure. Does not override catalyst quality, confirmation or risk controls."
+  },
+  "scanNotes": {
+    "marketState": "Weekend / U.S. cash market closed",
+    "discovery": "Independent clean-slate full-market news, mover, SEC/dilution, scheduled-catalyst and theme scan completed before dashboard history was consulted.",
+    "materialChange": "No new candidate displaced the current leaders. Fresh primary-source re-verification confirms both ACET Sep 28 8:00 AM ET and KOD Sep 28 8:30 AM ET events remain live Monday catalysts. Earlier concern that ACET was stale was false and has been corrected.",
+    "newlyReviewed": [
+      "ADXN — Sep 28 half-year results/business update; catalyst not strong enough to displace active field.",
+      "BUUU — 40MW Macao AI data-center module framework; interesting fresh AI infrastructure catalyst but insufficient verified momentum/entry evidence for active ranking.",
+      "GCTK — AI pipeline collaboration; promotional/early-stage quality and insufficient momentum confirmation.",
+      "QUCY — quantum navigation/drone strategic refocus; presentation-level catalyst, not enough quality for active list.",
+      "ONEN — nuclear/AI theme remains explosive but severe post-SPAC falling-knife structure keeps Entry too weak."
+    ]
   }
 }
