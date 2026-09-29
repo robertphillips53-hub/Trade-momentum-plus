@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 28, 2026 • event-repricing scan + Robinhood live-price refresh",
+  "updated": "Sep 29, 2026 • 5:40 AM PT fresh market-wide Tuesday catalyst scan + Robinhood price refresh",
   "items": [
     {
       "ticker": "QTTB",
@@ -37,8 +37,8 @@
         "evidenceConfidence": 82,
         "rating": "PRE-CATALYST LEADER"
       },
-      "currentPrice": 9.81,
-      "currentPriceTime": "2026-09-29T00:46:16.318Z",
+      "currentPrice": 9.64,
+      "currentPriceTime": "2026-09-29T12:34:07.218226268Z",
       "currentPriceSession": "extended"
     },
     {
@@ -77,8 +77,8 @@
         "evidenceConfidence": 93,
         "rating": "HIGH-EVIDENCE / MODERATE NOVELTY"
       },
-      "currentPrice": 8.71,
-      "currentPriceTime": "2026-09-29T00:07:21.154Z",
+      "currentPrice": 8.79,
+      "currentPriceTime": "2026-09-29T12:16:29.414229144Z",
       "currentPriceSession": "extended"
     },
     {
@@ -117,8 +117,8 @@
         "evidenceConfidence": 74,
         "rating": "POST-CONFIRMATION LEAN"
       },
-      "currentPrice": 7.07,
-      "currentPriceTime": "2026-09-29T00:40:02.894Z",
+      "currentPrice": 7.1986,
+      "currentPriceTime": "2026-09-29T11:39:37.249740491Z",
       "currentPriceSession": "extended"
     },
     {
@@ -157,8 +157,8 @@
         "evidenceConfidence": 71,
         "rating": "WAIT FOR RESULTS"
       },
-      "currentPrice": 60.54,
-      "currentPriceTime": "2026-09-29T00:02:58.937Z",
+      "currentPrice": 60.82,
+      "currentPriceTime": "2026-09-29T12:29:12.995715041Z",
       "currentPriceSession": "extended"
     },
     {
@@ -196,8 +196,8 @@
         "evidenceConfidence": 88,
         "rating": "WATCH"
       },
-      "currentPrice": 15.01,
-      "currentPriceTime": "2026-09-29T01:16:25.636Z",
+      "currentPrice": 15.53,
+      "currentPriceTime": "2026-09-29T05:39:07.702Z",
       "currentPriceSession": "extended"
     },
     {
@@ -226,8 +226,8 @@
       "history": [
         68
       ],
-      "currentPrice": 0.3662,
-      "currentPriceTime": "2026-09-29T01:20:02.507Z",
+      "currentPrice": 0.3,
+      "currentPriceTime": "2026-09-29T12:39:13.233234309Z",
       "currentPriceSession": "extended"
     },
     {
@@ -256,8 +256,87 @@
       "history": [
         58
       ],
-      "currentPrice": 4.03,
-      "currentPriceTime": "2026-09-29T00:25:18.326Z",
+      "currentPrice": 4.13,
+      "currentPriceTime": "2026-09-29T12:30:00.13677406Z",
+      "currentPriceSession": "extended"
+    },
+    {
+      "ticker": "ALDX",
+      "name": "Aldeyra Therapeutics",
+      "status": "TODAY REGULATORY UPDATE • HIGH BINARY RISK",
+      "catalyst": 90,
+      "momentum": 42,
+      "entry": 52,
+      "composite": 72,
+      "explosiveScore": 92,
+      "evidenceConfidence": 46,
+      "repricingPotential": 92,
+      "preCatalystScore": 52,
+      "postCatalystScore": 82,
+      "decisionState": "WAIT FOR REGULATORY DETAILS / POST-CATALYST ONLY",
+      "trigger": "Only consider if the Sept 29 regulatory update clearly improves the FDA path for reproxalap and price/volume confirm; do not pre-emptively chase.",
+      "resistance": "~$1.22 near prior-session high; larger overhead remains above",
+      "room": "Very high percentage-repricing potential because market cap is only about $71M, but outcome risk is also unusually high.",
+      "invalidation": "FDA requires substantial new efficacy work, no clear resubmission path, or price loses recent ~$1.10-$1.15 support.",
+      "state": "today-catalyst",
+      "note": "Fresh Sep 29 scan found ALDX as today's highest raw repricing-potential event name. The company scheduled an 8:00 AM ET regulatory update on reproxalap after a March 2026 CRL that challenged efficacy evidence. The event has already started/passed, so this is no longer a clean pre-catalyst entry. Treat as a post-update confirmation trade only.",
+      "sources": [
+        "https://ir.aldeyra.com/news-releases/news-release-details/aldeyra-therapeutics-host-regulatory-update-webcast",
+        "https://www.sec.gov/Archives/edgar/data/1341235/000134123526000010/aldx-20260630.htm"
+      ],
+      "history": [
+        72
+      ],
+      "preCatalyst": {
+        "date": "2026-09-29",
+        "time": "8:00 AM ET / 5:00 AM PT",
+        "type": "Regulatory update on reproxalap after FDA CRL",
+        "evidenceFor": "Company held multiple FDA interactions after the CRL and scheduled a focused regulatory update, creating potential for a clarified resubmission path.",
+        "evidenceAgainst": "March 2026 CRL said efficacy evidence was inadequate and inconsistent; FDA could still require additional trials.",
+        "evidenceConfidence": 46,
+        "rating": "POST-UPDATE CONFIRMATION ONLY"
+      },
+      "currentPrice": 1.16,
+      "currentPriceTime": "2026-09-29T12:23:08.726172618Z",
+      "currentPriceSession": "extended"
+    },
+    {
+      "ticker": "KYTX",
+      "name": "Kyverna Therapeutics",
+      "status": "TODAY 7:15 AM PT PRESENTATION • INCREMENTAL DATA",
+      "catalyst": 78,
+      "momentum": 53,
+      "entry": 63,
+      "composite": 71,
+      "explosiveScore": 72,
+      "evidenceConfidence": 88,
+      "repricingPotential": 72,
+      "preCatalystScore": 63,
+      "postCatalystScore": 72,
+      "decisionState": "WATCH PRESENTATION / MOST HEADLINE DATA ALREADY PUBLIC",
+      "trigger": "7:15 AM PT AANEM presentation; only upgrade if new longer-term details materially exceed the Sep 24 topline release and volume confirms.",
+      "resistance": "~$6.95 recent high, then ~$7 psychological area",
+      "room": "Moderate; ~$422M market cap allows movement, but most key efficacy/durability headlines were disclosed Sep 24.",
+      "invalidation": "Presentation adds little beyond known topline data, safety detail weakens, or price fails to hold recent range.",
+      "state": "today-catalyst",
+      "note": "Fresh Sep 29 scan found KYTX with a confirmed 10:15 AM ET / 7:15 AM PT AANEM oral presentation. However, Kyverna already released positive one-year SPS and longer-term gMG topline data on Sep 24, so today's novelty is lower than QTTB's off-treatment durability catalyst.",
+      "sources": [
+        "https://ir.kyvernatx.com/news-releases/news-release-details/kyverna-therapeutics-reports-positive-one-year-data"
+      ],
+      "history": [
+        71
+      ],
+      "preCatalyst": {
+        "date": "2026-09-29",
+        "time": "10:15 AM ET / 7:15 AM PT",
+        "type": "AANEM longer-term Phase 2 miv-cel follow-up presentation",
+        "evidenceFor": "Positive durable responses and favorable safety were already reported; the oral presentation may add depth and subgroup detail.",
+        "evidenceAgainst": "Most headline efficacy/durability information was released Sep 24, limiting surprise/repricing potential.",
+        "evidenceConfidence": 88,
+        "rating": "WATCH / INCREMENTAL"
+      },
+      "currentPrice": 6.89,
+      "currentPriceTime": "2026-09-29T12:33:38.991444427Z",
       "currentPriceSession": "extended"
     }
   ],
@@ -515,10 +594,10 @@
     }
   },
   "scanNotes": {
-    "marketState": "Fresh Sep 28 clean-slate Trade Momentum+ event-repricing scan.",
-    "discovery": "Market-wide discovery was performed before reading dashboard history. Active board now prioritizes future hard catalysts plus selective post-catalyst confirmation cases, with small-company repricing potential and evidence confidence scored separately.",
-    "materialChange": "QTTB independently ranks as the leading near-term pre-catalyst setup. CAPR has the highest evidence confidence but less novel upcoming data. ARTV is a smaller-company explosive candidate where post-result confirmation may be preferable. NKTR is explicitly WAIT FOR RESULTS. SOAR is retained only as a post-catalyst contract archetype, not a chase.",
-    "methodologyChange": "Dashboard now implements PRE-CATALYST ENTRY vs WAIT FOR RESULTS vs POST-CATALYST decision states and separates evidence confidence from repricing potential.",
-    "scanLimitations": "Scores are research heuristics, not calibrated probabilities. Current Price fields are refreshed from Robinhood's latest verified executed trade at each dashboard update; extended-hours prints may be thin or stale, so timestamps are shown."
+    "marketState": "Fresh Sep 29 clean-slate Trade Momentum+ scan focused on hard catalysts occurring today.",
+    "discovery": "Independent market-wide search found ALDX and KYTX as the most relevant Tuesday-specific small-cap event names. ALDX has greater raw repricing potential but its regulatory event already occurred and carries significant FDA outcome risk. KYTX has a confirmed 7:15 AM PT presentation, but most positive headline data were already released Sep 24.",
+    "materialChange": "No second QTTB-quality clean pre-catalyst setup was found for today at this scan. ALDX is post-update/high-binary; KYTX is incremental. QTTB remains the stronger pre-catalyst setup for the next major event window.",
+    "methodologyChange": "Current Price continues to refresh from Robinhood on dashboard updates. Tuesday-event candidates are explicitly separated from upcoming multi-day catalyst names.",
+    "scanLimitations": "Scores are research heuristics, not probabilities. Thin premarket/extended-hours prints can be stale; timestamped latest executed Robinhood trades are shown."
   }
 }
