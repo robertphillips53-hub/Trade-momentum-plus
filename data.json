@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 28, 2026 • fresh clean-slate event-repricing scan",
+  "updated": "Sep 28, 2026 • event-repricing scan + Robinhood live-price refresh",
   "items": [
     {
       "ticker": "QTTB",
@@ -36,7 +36,10 @@
         "evidenceAgainst": "Open-label, only 33 enrolled; mITT excludes some enrolled patients; headline Week-36 efficacy is already public.",
         "evidenceConfidence": 82,
         "rating": "PRE-CATALYST LEADER"
-      }
+      },
+      "currentPrice": 9.81,
+      "currentPriceTime": "2026-09-29T00:46:16.318Z",
+      "currentPriceSession": "extended"
     },
     {
       "ticker": "CAPR",
@@ -73,7 +76,10 @@
         "evidenceAgainst": "Major efficacy result already known; extension/delayed-start data are less clean than a new randomized pivotal readout.",
         "evidenceConfidence": 93,
         "rating": "HIGH-EVIDENCE / MODERATE NOVELTY"
-      }
+      },
+      "currentPrice": 8.71,
+      "currentPriceTime": "2026-09-29T00:07:21.154Z",
+      "currentPriceSession": "extended"
     },
     {
       "ticker": "ARTV",
@@ -110,7 +116,10 @@
         "evidenceAgainst": "Tiny uncontrolled Sjögren cohort; presentation wording does not establish magnitude or durability.",
         "evidenceConfidence": 74,
         "rating": "POST-CONFIRMATION LEAN"
-      }
+      },
+      "currentPrice": 7.07,
+      "currentPriceTime": "2026-09-29T00:40:02.894Z",
+      "currentPriceSession": "extended"
     },
     {
       "ticker": "NKTR",
@@ -147,7 +156,10 @@
         "evidenceAgainst": "Original ITT primary endpoint p=0.186/0.121; ~$2B market cap; off-treatment durability remains unknown.",
         "evidenceConfidence": 71,
         "rating": "WAIT FOR RESULTS"
-      }
+      },
+      "currentPrice": 60.54,
+      "currentPriceTime": "2026-09-29T00:02:58.937Z",
+      "currentPriceSession": "extended"
     },
     {
       "ticker": "AVTX",
@@ -183,7 +195,10 @@
         "evidenceAgainst": "Most important headline information is already public.",
         "evidenceConfidence": 88,
         "rating": "WATCH"
-      }
+      },
+      "currentPrice": 15.01,
+      "currentPriceTime": "2026-09-29T01:16:25.636Z",
+      "currentPriceSession": "extended"
     },
     {
       "ticker": "SOAR",
@@ -210,7 +225,10 @@
       ],
       "history": [
         68
-      ]
+      ],
+      "currentPrice": 0.3662,
+      "currentPriceTime": "2026-09-29T01:20:02.507Z",
+      "currentPriceSession": "extended"
     },
     {
       "ticker": "MNTS",
@@ -237,7 +255,10 @@
       ],
       "history": [
         58
-      ]
+      ],
+      "currentPrice": 4.03,
+      "currentPriceTime": "2026-09-29T00:25:18.326Z",
+      "currentPriceSession": "extended"
     }
   ],
   "archive": [
@@ -498,6 +519,6 @@
     "discovery": "Market-wide discovery was performed before reading dashboard history. Active board now prioritizes future hard catalysts plus selective post-catalyst confirmation cases, with small-company repricing potential and evidence confidence scored separately.",
     "materialChange": "QTTB independently ranks as the leading near-term pre-catalyst setup. CAPR has the highest evidence confidence but less novel upcoming data. ARTV is a smaller-company explosive candidate where post-result confirmation may be preferable. NKTR is explicitly WAIT FOR RESULTS. SOAR is retained only as a post-catalyst contract archetype, not a chase.",
     "methodologyChange": "Dashboard now implements PRE-CATALYST ENTRY vs WAIT FOR RESULTS vs POST-CATALYST decision states and separates evidence confidence from repricing potential.",
-    "scanLimitations": "Live market-data plugin returned a zero-credit error, so current prices/market caps were cross-checked from current web sources rather than that feed. Scores are research heuristics, not calibrated probabilities."
+    "scanLimitations": "Scores are research heuristics, not calibrated probabilities. Current Price fields are refreshed from Robinhood's latest verified executed trade at each dashboard update; extended-hours prints may be thin or stale, so timestamps are shown."
   }
 }
