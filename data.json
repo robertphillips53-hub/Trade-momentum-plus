@@ -1,14 +1,14 @@
 {
-  "updated": "Sep 29, 2026 • 11:43 PM PT fresh Trade Momentum+ market-wide hourly scan",
+  "updated": "Sep 30, 2026 • 2:10 AM PT fresh Trade Momentum+ market-wide hourly scan",
   "items": [
     {
       "ticker": "QTTB",
       "name": "Q32 Bio",
       "status": "PRE-CATALYST LEADER • EADV SEP 30 • EXTENDED",
       "catalyst": 94,
-      "momentum": 88,
-      "entry": 75,
-      "composite": 87,
+      "momentum": 76,
+      "entry": 69,
+      "composite": 84,
       "explosiveScore": 94,
       "evidenceConfidence": 82,
       "repricingPotential": 91,
@@ -20,14 +20,15 @@
       "room": "High if Week-52 off-drug durability is broad and clinically meaningful",
       "invalidation": "Material durability fade, unexpected safety issue, event delay, or structure breakdown",
       "state": "pre-catalyst",
-      "note": "Fresh clean-slate scan independently reconfirmed QTTB as the strongest near-term asymmetric event setup found, but the extended-hours run to ~$11.06 materially increases priced-in/exhaustion risk for a new entry. Existing pre-catalyst thesis remains active.",
+      "note": "2:10 AM PT: ~$10.21 vs $9.53 close (+7%). Catalyst thesis remains active, but tape has faded materially from the earlier overnight peak, weakening momentum leadership.",
       "sources": [
         "https://q32bio.gcs-web.com/news-releases/news-release-details/q32-bio-announces-upcoming-late-breaking-presentation-results",
         "https://ir.q32bio.com/news-releases/news-release-details/q32-bio-announces-positive-36-week-topline-results-part-b-signal"
       ],
       "history": [
         88,
-        87
+        87,
+        84
       ],
       "preCatalyst": {
         "date": "2026-09-30",
@@ -38,18 +39,18 @@
         "evidenceConfidence": 82,
         "rating": "PRE-CATALYST LEADER"
       },
-      "currentPrice": 11.06,
+      "currentPrice": 10.21,
       "currentPriceTime": "2026-09-30T06:43:20.633Z",
       "currentPriceSession": "extended"
     },
     {
       "ticker": "CAPR",
       "name": "Capricor Therapeutics",
-      "status": "HIGH-EVIDENCE CATALYST • WMS SEP 29-OCT 3",
+      "status": "HIGH-EVIDENCE CATALYST • STRONG OVERNIGHT MOMENTUM • EXTENDED",
       "catalyst": 91,
-      "momentum": 80,
-      "entry": 72,
-      "composite": 83,
+      "momentum": 94,
+      "entry": 61,
+      "composite": 84,
       "explosiveScore": 82,
       "evidenceConfidence": 93,
       "repricingPotential": 82,
@@ -61,14 +62,15 @@
       "room": "Moderate-high; ~$488M market cap, but core 12-month Phase 3 success is already known",
       "invalidation": "24-month trajectory materially diverges from randomized Phase 3 benefit or new safety concern",
       "state": "pre-catalyst",
-      "note": "Fresh scan independently rediscovered CAPR. Evidence confidence is highest in the group: randomized double-blind Phase 3 met primary endpoint and key cardiac endpoint and was peer-reviewed. Upcoming 24-month/OLE analyses can strengthen durability/BLA narrative, but are less novel than a new pivotal topline readout.",
+      "note": "2:10 AM PT: ~$10.99 vs $8.57 close (+28%). Momentum materially strengthened; fresh-entry quality falls because much more favorable expectation is now priced in.",
       "sources": [
         "https://www.capricor.com/investors/news-events/press-releases/detail/350/the-lancet-publishes-hope-3-data-for-capricor",
         "https://www.capricor.com/investors/news-events/ir-calendar/detail/20260929-31st-annual-congress-of-the-world-muscle-society-wms-2026"
       ],
       "history": [
         84,
-        83
+        83,
+        84
       ],
       "preCatalyst": {
         "date": "2026-09-29 to 2026-10-03",
@@ -79,7 +81,7 @@
         "evidenceConfidence": 93,
         "rating": "HIGH-EVIDENCE / MODERATE NOVELTY"
       },
-      "currentPrice": 10.11,
+      "currentPrice": 10.99,
       "currentPriceTime": "2026-09-30T06:42:15.343Z",
       "currentPriceSession": "extended"
     },
@@ -120,7 +122,7 @@
         "evidenceConfidence": 74,
         "rating": "POST-CONFIRMATION LEAN"
       },
-      "currentPrice": 7.15,
+      "currentPrice": 7.03,
       "currentPriceTime": "2026-09-30T06:39:20.531Z",
       "currentPriceSession": "extended"
     },
@@ -161,9 +163,45 @@
         "evidenceConfidence": 71,
         "rating": "WAIT FOR RESULTS"
       },
-      "currentPrice": 59.72,
+      "currentPrice": 59.8,
       "currentPriceTime": "2026-09-30T06:22:12.871Z",
       "currentPriceSession": "extended"
+    },
+    {
+      "ticker": "EVMN",
+      "name": "Evommune",
+      "status": "PRE-CATALYST • PHASE 2A EVO301 OCT 1",
+      "catalyst": 84,
+      "momentum": 45,
+      "entry": 68,
+      "composite": 74,
+      "explosiveScore": 80,
+      "evidenceConfidence": 70,
+      "repricingPotential": 80,
+      "decisionState": "WATCH • NEED MOMENTUM CONFIRMATION",
+      "trigger": "Oct 1 10:30 AM ET late-breaker; require compelling efficacy/safety plus liquid tape confirmation",
+      "resistance": "TBD next liquid-session check",
+      "room": "Potentially high, but overnight execution poor",
+      "invalidation": "Weak efficacy/safety or failure to attract liquid volume",
+      "state": "pre-catalyst",
+      "note": "Company-confirmed Oct 1 late-breaking Phase 2a EVO301 atopic dermatitis presentation. Novel dataset, but overnight spread/liquidity too poor for top-tier entry.",
+      "sources": [
+        "https://ir.evommune.com/"
+      ],
+      "history": [
+        74
+      ],
+      "currentPrice": 8.35,
+      "currentPriceSession": "extended",
+      "preCatalyst": {
+        "date": "2026-10-01",
+        "time": "10:30 AM EDT",
+        "type": "Phase 2a EVO301 atopic dermatitis late-breaker",
+        "evidenceFor": "Company-confirmed novel Phase 2a efficacy/safety dataset.",
+        "evidenceAgainst": "Limited efficacy evidence before event; poor overnight execution.",
+        "evidenceConfidence": 70,
+        "rating": "WATCH"
+      }
     },
     {
       "ticker": "AVTX",
@@ -200,9 +238,9 @@
         "evidenceConfidence": 88,
         "rating": "WATCH"
       },
-      "currentPrice": 15.555,
+      "currentPrice": 15.7,
       "currentPriceTime": "2026-09-29T20:00:00Z",
-      "currentPriceSession": "regular-close / IEX"
+      "currentPriceSession": "extended"
     },
     {
       "ticker": "SOAR",
@@ -598,25 +636,26 @@
     }
   },
   "scanNotes": {
-    "marketState": "Late extended-hours Sep 29 / pre-Sep 30 catalyst window.",
-    "discovery": "Clean-slate broad search included clinical/regulatory and non-biotech hard-catalyst discovery. No newly verified candidate cleared the current leaders.",
-    "materialChange": "QTTB extended-hours price ~11.06 and CAPR ~10.11. QTTB remains leader, but chase risk is higher for a fresh entry.",
+    "marketState": "Overnight Sep 30 premarket window.",
+    "discovery": "Fresh broad discovery added EVMN as a real Oct 1 Phase 2a late-breaker; no newly verified candidate clearly displaced the leaders.",
+    "materialChange": "CAPR ~10.99 (+28% vs close) has materially stronger tape; QTTB ~10.21 has faded from its earlier overnight peak. CAPR momentum leads, but fresh-entry quality is penalized for extension.",
     "methodologyChange": "No methodology change.",
-    "scanLimitations": "Broad discovery is not literally exhaustive of every U.S.-listed security; scores are research heuristics, and extended-hours liquidity can be thin."
+    "scanLimitations": "Broad discovery is not literally exhaustive; overnight spreads can be non-executable."
   },
   "scanMeta": {
     "scanType": "fresh market-wide hourly Trade Momentum+ scan",
-    "timestampPT": "2026-09-29 11:43 PM PT",
-    "leader": "QTTB",
+    "timestampPT": "2026-09-30 2:10 AM PT",
+    "leader": "CAPR (momentum) / QTTB (catalyst novelty)",
     "challengers": [
-      "CAPR",
+      "QTTB",
       "ARTV",
-      "NKTR"
+      "NKTR",
+      "EVMN"
     ],
-    "conclusion": "Fresh discovery found no newly verified 1–4 trading-day KOD-like U.S.-listed setup strong enough to displace QTTB/CAPR. QTTB remains leader but new-entry quality is lower after the extended-hours run; CAPR momentum strengthened but its upcoming dataset remains more incremental.",
+    "conclusion": "Material tape change: CAPR strengthened sharply while QTTB faded. EVMN added as secondary Oct 1 candidate.",
     "verification": [
       "Fresh broad catalyst/news search",
-      "QTTB/CAPR/ARTV/NKTR extended-hours quotes refreshed"
+      "Robinhood overnight quotes refreshed"
     ],
     "persistenceStatus": "verified"
   }
