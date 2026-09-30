@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 30, 2026 • 2:10 AM PT fresh Trade Momentum+ market-wide hourly scan",
+  "updated": "Sep 30, 2026 • 7:04 AM PT hourly scan",
   "items": [
     {
       "ticker": "QTTB",
@@ -644,7 +644,7 @@
   },
   "scanMeta": {
     "scanType": "fresh market-wide hourly Trade Momentum+ scan",
-    "timestampPT": "2026-09-30 2:10 AM PT",
+    "timestampPT": "2026-09-30 7:04 AM PT",
     "leader": "CAPR (momentum) / QTTB (catalyst novelty)",
     "challengers": [
       "QTTB",
@@ -657,6 +657,6 @@
       "Fresh broad catalyst/news search",
       "Robinhood overnight quotes refreshed"
     ],
-    "persistenceStatus": "verified"
+    "persistenceStatus": "scan completed; write attempted"
   }
 }
