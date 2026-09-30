@@ -1,15 +1,15 @@
 {
-  "updated": "Sep 29, 2026 • 2:42 PM PT fresh Trade Momentum+ market-wide ad hoc scan",
+  "updated": "Sep 29, 2026 • 11:43 PM PT fresh Trade Momentum+ market-wide hourly scan",
   "items": [
     {
       "ticker": "QTTB",
       "name": "Q32 Bio",
-      "status": "PRE-CATALYST LEADER • EADV SEP 30",
+      "status": "PRE-CATALYST LEADER • EADV SEP 30 • EXTENDED",
       "catalyst": 94,
-      "momentum": 67,
-      "entry": 84,
-      "composite": 88,
-      "explosiveScore": 91,
+      "momentum": 88,
+      "entry": 75,
+      "composite": 87,
+      "explosiveScore": 94,
       "evidenceConfidence": 82,
       "repricingPotential": 91,
       "preCatalystScore": 88,
@@ -20,13 +20,14 @@
       "room": "High if Week-52 off-drug durability is broad and clinically meaningful",
       "invalidation": "Material durability fade, unexpected safety issue, event delay, or structure breakdown",
       "state": "pre-catalyst",
-      "note": "Fresh scan independently rediscovered QTTB. Week-36 efficacy is already positive and initial off-drug durability signs were disclosed; Sep 30 adds the first fuller 16-week off-drug picture. Small ~$261M market cap and ~19.3% short float create strong repricing potential, but open-label N=33 limits confidence versus pivotal randomized data.",
+      "note": "Fresh clean-slate scan independently reconfirmed QTTB as the strongest near-term asymmetric event setup found, but the extended-hours run to ~$11.06 materially increases priced-in/exhaustion risk for a new entry. Existing pre-catalyst thesis remains active.",
       "sources": [
         "https://q32bio.gcs-web.com/news-releases/news-release-details/q32-bio-announces-upcoming-late-breaking-presentation-results",
         "https://ir.q32bio.com/news-releases/news-release-details/q32-bio-announces-positive-36-week-topline-results-part-b-signal"
       ],
       "history": [
-        88
+        88,
+        87
       ],
       "preCatalyst": {
         "date": "2026-09-30",
@@ -37,18 +38,18 @@
         "evidenceConfidence": 82,
         "rating": "PRE-CATALYST LEADER"
       },
-      "currentPrice": 9.55,
-      "currentPriceTime": "2026-09-29T20:00:00Z",
-      "currentPriceSession": "regular-close / IEX"
+      "currentPrice": 11.06,
+      "currentPriceTime": "2026-09-30T06:43:20.633Z",
+      "currentPriceSession": "extended"
     },
     {
       "ticker": "CAPR",
       "name": "Capricor Therapeutics",
       "status": "HIGH-EVIDENCE CATALYST • WMS SEP 29-OCT 3",
       "catalyst": 91,
-      "momentum": 55,
-      "entry": 77,
-      "composite": 84,
+      "momentum": 80,
+      "entry": 72,
+      "composite": 83,
       "explosiveScore": 82,
       "evidenceConfidence": 93,
       "repricingPotential": 82,
@@ -66,7 +67,8 @@
         "https://www.capricor.com/investors/news-events/ir-calendar/detail/20260929-31st-annual-congress-of-the-world-muscle-society-wms-2026"
       ],
       "history": [
-        84
+        84,
+        83
       ],
       "preCatalyst": {
         "date": "2026-09-29 to 2026-10-03",
@@ -77,9 +79,9 @@
         "evidenceConfidence": 93,
         "rating": "HIGH-EVIDENCE / MODERATE NOVELTY"
       },
-      "currentPrice": 8.58,
-      "currentPriceTime": "2026-09-29T20:00:00Z",
-      "currentPriceSession": "regular-close / IEX"
+      "currentPrice": 10.11,
+      "currentPriceTime": "2026-09-30T06:42:15.343Z",
+      "currentPriceSession": "extended"
     },
     {
       "ticker": "ARTV",
@@ -106,6 +108,7 @@
         "https://www.sec.gov/Archives/edgar/data/1817241/000119312526337986/artv-ex99_1.htm"
       ],
       "history": [
+        79,
         79
       ],
       "preCatalyst": {
@@ -117,9 +120,9 @@
         "evidenceConfidence": 74,
         "rating": "POST-CONFIRMATION LEAN"
       },
-      "currentPrice": 7.04,
-      "currentPriceTime": "2026-09-29T20:00:00Z",
-      "currentPriceSession": "regular-close / IEX"
+      "currentPrice": 7.15,
+      "currentPriceTime": "2026-09-30T06:39:20.531Z",
+      "currentPriceSession": "extended"
     },
     {
       "ticker": "NKTR",
@@ -146,6 +149,7 @@
         "https://www.stocktitan.net/news/NKTR/nektar-announces-three-oral-presentations-for-rezpegaldesleukin-at-jj93y8ujb7kd.html"
       ],
       "history": [
+        76,
         76
       ],
       "preCatalyst": {
@@ -157,9 +161,9 @@
         "evidenceConfidence": 71,
         "rating": "WAIT FOR RESULTS"
       },
-      "currentPrice": 59.28,
-      "currentPriceTime": "2026-09-29T20:00:00Z",
-      "currentPriceSession": "regular-close / IEX"
+      "currentPrice": 59.72,
+      "currentPriceTime": "2026-09-30T06:22:12.871Z",
+      "currentPriceSession": "extended"
     },
     {
       "ticker": "AVTX",
@@ -594,28 +598,26 @@
     }
   },
   "scanNotes": {
-    "marketState": "Fresh Sep 29 clean-slate Trade Momentum+ scan focused on hard catalysts occurring today.",
-    "discovery": "Independent market-wide search found ALDX and KYTX as the most relevant Tuesday-specific small-cap event names. ALDX has greater raw repricing potential but its regulatory event already occurred and carries significant FDA outcome risk. KYTX has a confirmed 7:15 AM PT presentation, but most positive headline data were already released Sep 24.",
-    "materialChange": "No second QTTB-quality clean pre-catalyst setup was found for today at this scan. ALDX is post-update/high-binary; KYTX is incremental. QTTB remains the stronger pre-catalyst setup for the next major event window.",
-    "methodologyChange": "Current Price continues to refresh from Robinhood on dashboard updates. Tuesday-event candidates are explicitly separated from upcoming multi-day catalyst names.",
-    "scanLimitations": "Scores are research heuristics, not probabilities. Thin premarket/extended-hours prints can be stale; timestamped latest executed Robinhood trades are shown."
+    "marketState": "Late extended-hours Sep 29 / pre-Sep 30 catalyst window.",
+    "discovery": "Clean-slate broad search included clinical/regulatory and non-biotech hard-catalyst discovery. No newly verified candidate cleared the current leaders.",
+    "materialChange": "QTTB extended-hours price ~11.06 and CAPR ~10.11. QTTB remains leader, but chase risk is higher for a fresh entry.",
+    "methodologyChange": "No methodology change.",
+    "scanLimitations": "Broad discovery is not literally exhaustive of every U.S.-listed security; scores are research heuristics, and extended-hours liquidity can be thin."
   },
   "scanMeta": {
-    "scanType": "fresh market-wide ad hoc Trade Momentum+ scan",
-    "timestampPT": "2026-09-29 2:42 PM PT",
+    "scanType": "fresh market-wide hourly Trade Momentum+ scan",
+    "timestampPT": "2026-09-29 11:43 PM PT",
     "leader": "QTTB",
     "challengers": [
+      "CAPR",
       "ARTV",
-      "NKTR",
-      "CAPR"
+      "NKTR"
     ],
-    "conclusion": "QTTB remains the highest-quality near-term pre-catalyst asymmetric setup found in this run. ARTV offers higher novelty but lower evidence confidence; NKTR has genuinely new off-treatment durability data but a much larger valuation and mixed prior statistical history. CAPR has the strongest evidence base but less incremental novelty. PHVS was excluded because its pivotal Phase 3 topline result was already released Sep 8; PRTC was excluded due stale/illiquid market data; CLLS/TLSA did not clear liquidity/execution quality.",
+    "conclusion": "Fresh discovery found no newly verified 1–4 trading-day KOD-like U.S.-listed setup strong enough to displace QTTB/CAPR. QTTB remains leader but new-entry quality is lower after the extended-hours run; CAPR momentum strengthened but its upcoming dataset remains more incremental.",
     "verification": [
-      "QTTB EADV additional 36-week + initial 16-week off-drug data Sep 30",
-      "ARTV Sjogren oral data Oct 1",
-      "NKTR 24-week off-treatment REZOLVE-AA data Oct 1",
-      "CAPR HOPE-3/OLE WMS data Sep 29-Oct 3"
+      "Fresh broad catalyst/news search",
+      "QTTB/CAPR/ARTV/NKTR extended-hours quotes refreshed"
     ],
-    "persistenceStatus": "verified"
+    "persistenceStatus": "pending verification"
   }
 }
